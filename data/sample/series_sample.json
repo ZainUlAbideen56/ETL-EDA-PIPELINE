@@ -1,0 +1,134 @@
+[
+  {
+    "id": "9e7f4acd-e2e2-5989-a333-e11656015d67",
+    "name": "Sample Series 1",
+    "startDate": "2018-01-10",
+    "endDate": "2018-02-20",
+    "odi": 3,
+    "t20": 3,
+    "test": 2,
+    "squads": 4,
+    "matches": 8
+  },
+  {
+    "id": "11bdbfac-d0da-5045-889f-78c4027f06c5",
+    "name": "Sample Series 2",
+    "startDate": "2019-01-10",
+    "endDate": "2019-02-20",
+    "odi": 3,
+    "t20": 3,
+    "test": 2,
+    "squads": 4,
+    "matches": 8
+  },
+  {
+    "id": "d787dc18-ad7a-534c-8ddf-41cd013ede0d",
+    "name": "Sample Series 3",
+    "startDate": "2020-01-10",
+    "endDate": "2020-02-20",
+    "odi": 3,
+    "t20": 3,
+    "test": 2,
+    "squads": 4,
+    "matches": 8
+  },
+  {
+    "id": "4edeb312-3ad8-5321-bb59-1c6f4a7ee191",
+    "name": "Sample Series 4",
+    "startDate": "2021-01-10",
+    "endDate": "2021-02-20",
+    "odi": 3,
+    "t20": 3,
+    "test": 2,
+    "squads": 4,
+    "matches": 8
+  },
+  {
+    "id": "e5b96220-b219-5b86-9978-ffe2ec659bae",
+    "name": "Sample Series 5",
+    "startDate": "2022-01-10",
+    "endDate": "2022-02-20",
+    "odi": 3,
+    "t20": 3,
+    "test": 2,
+    "squads": 4,
+    "matches": 8
+  },
+  {
+    "id": "057adf01-2326-5669-807c-a94245cee181",
+    "name": "Sample Series 6",
+    "startDate": "2023-01-10",
+    "endDate": "2023-02-20",
+    "odi": 3,
+    "t20": 3,
+    "test": 2,
+    "squads": 4,
+    "matches": 8
+  },
+  {
+    "id": "85af3f18-6742-5f0d-83c2-da6e6d3e5384",
+    "name": "Sample Series 7",
+    "startDate": "2024-01-10",
+    "endDate": "2024-02-20",
+    "odi": 3,
+    "t20": 3,
+    "test": 2,
+    "squads": 4,
+    "matches": 8
+  },
+  {
+    "id": "961d5e35-909c-57c9-9c4f-d01c82ae0544",
+    "name": "Sample Series 8",
+    "startDate": "2025-01-10",
+    "endDate": "2025-02-20",
+    "odi": 3,
+    "t20": 3,
+    "test": 2,
+    "squads": 4,
+    "matches": 8
+  },
+  {
+    "id": "4d5687f1-aea5-51c1-ad1a-b1a462cf6ec1",
+    "name": "Sample Series 9",
+    "startDate": "2018-01-10",
+    "endDate": "2018-02-20",
+    "odi": 3,
+    "t20": 3,
+    "test": 2,
+    "squads": 4,
+    "matches": 8
+  },
+  {
+    "id": "c435fb79-5221-5a78-a99c-362d7a63161b",
+    "name": "Sample Series 10",
+    "startDate": "2019-01-10",
+    "endDate": "2019-02-20",
+    "odi": 3,
+    "t20": 3,
+    "test": 2,
+    "squads": 4,
+    "matches": 8
+  },
+  {
+    "id": "a61b51b5-0a81-5ad7-aa18-3b28ca2d38fe",
+    "name": "Sample Series 11",
+    "startDate": "2020-01-10",
+    "endDate": "2020-02-20",
+    "odi": 3,
+    "t20": 3,
+    "test": 2,
+    "squads": 4,
+    "matches": 8
+  },
+  {
+    "id": "dcf19a53-5017-52ac-8c74-2fba4a9bd2b0",
+    "name": "Sample Series 12",
+    "startDate": "2021-01-10",
+    "endDate": "2021-02-20",
+    "odi": 3,
+    "t20": 3,
+    "test": 2,
+    "squads": 4,
+    "matches": 8
+  }
+]

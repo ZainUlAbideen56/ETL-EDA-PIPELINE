@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Cricket Analytics</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+  <script>window.Chart || document.write('<script src="{{ url_for('static', filename='chart.umd.min.js') }}"><\/script>');</script>
+</head>
+<body>
+  <header>
+    <h1>Cricket Match Analytics</h1>
+    <p>Programming for AI, Project 1. Data from the CricketData.org API, stored in SQLite.</p>
+  </header>
+
+  <div id="banner" class="banner" hidden></div>
+
+  <main>
+    <section id="filters" class="panel filters">
+      <div><span class="label">Format</span><div id="fmt-box" class="checks"></div></div>
+      <div><span class="label">Years</span>
+        <input type="number" id="year-from"> to <input type="number" id="year-to"></div>
+      <div><span class="label">Teams</span>
+        <select id="gender"><option value="all">All</option><option value="men">Men</option><option value="women">Women</option></select></div>
+    </section>
+
+    <section class="kpis">
+      <div class="kpi"><span>Matches</span><strong id="kpi-matches">-</strong></div>
+      <div class="kpi"><span>Innings</span><strong id="kpi-innings">-</strong></div>
+      <div class="kpi"><span>Teams</span><strong id="kpi-teams">-</strong></div>
+      <div class="kpi"><span>Average runs per innings</span><strong id="kpi-runs">-</strong></div>
+    </section>
+
+    <section class="grid">
+      <div class="panel"><h2>Matches by format</h2><div class="chart-box"><canvas id="c-formats"></canvas></div></div>
+      <div class="panel"><h2>Matches per year</h2><div class="chart-box"><canvas id="c-years"></canvas></div></div>
+      <div class="panel"><h2>Average run rate by format</h2><div class="chart-box"><canvas id="c-runrate"></canvas></div></div>
+      <div class="panel"><h2>Batting first wins (%)</h2><div class="chart-box"><canvas id="c-batfirst"></canvas></div>
+        <p class="note">Only ODI and T20 matches with a result.</p></div>
+      <div class="panel"><h2>Win % by team</h2>
+        <label class="note">Minimum matches played <input type="number" id="min-matches" value="10" min="1" max="200"></label>
+        <div class="chart-box"><canvas id="c-teams"></canvas></div></div>
+      <div class="panel"><h2>Top venues</h2><div class="chart-box"><canvas id="c-venues"></canvas></div></div>
+    </section>
+
+    <section class="panel">
+      <h2>Matches <small id="match-count"></small></h2>
+      <input type="search" id="search" placeholder="Search team, venue or match name">
+      <div class="table-wrap"><table>
+        <thead><tr><th>Date</th><th>Match</th><th>Format</th><th>Venue</th><th>Winner</th><th>Result</th></tr></thead>
+        <tbody id="matches-body"></tbody>
+      </table></div>
+    </section>
+
+    <section class="panel">
+      <h2>Data quality</h2>
+      <div id="dq-cards" class="kpis"></div>
+      <h3>Last ETL runs</h3>
+      <div class="table-wrap"><table>
+        <thead><tr><th>Run</th><th>Finished</th><th>Source</th><th>Extracted</th><th>Rejected</th><th>Matches loaded</th><th>Status</th></tr></thead>
+        <tbody id="runs-body"></tbody>
+      </table></div>
+    </section>
+  </main>
+
+  <footer>Built with Python, pandas, Pydantic, SQLite and Flask.</footer>
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

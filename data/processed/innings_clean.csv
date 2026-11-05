@@ -1,0 +1,962 @@
+match_id,innings_no,team,runs,wickets,overs,balls,run_rate,all_out
+fcdea1e1-870a-5894-bc0b-86de626c80ed,1,West Indies,162,8,50.0,300,3.24,False
+fcdea1e1-870a-5894-bc0b-86de626c80ed,2,England,167,7,42.4,256,3.91,False
+1583b20d-f6b4-5280-b6ac-5df2161db56a,1,Sri Lanka,252,10,92.3,555,2.72,True
+1583b20d-f6b4-5280-b6ac-5df2161db56a,2,Bangladesh,289,10,83.4,502,3.45,True
+1583b20d-f6b4-5280-b6ac-5df2161db56a,3,Sri Lanka,446,10,126.2,758,3.53,True
+1583b20d-f6b4-5280-b6ac-5df2161db56a,4,Bangladesh,162,10,75.5,455,2.14,True
+dbe48411-dc0d-54ed-8bfd-aee0a4273ab7,1,Sri Lanka,146,8,20.0,120,7.3,False
+dbe48411-dc0d-54ed-8bfd-aee0a4273ab7,2,Afghanistan,143,10,13.4,82,10.46,True
+0da97d39-09c7-5bdc-9f57-70e8b5bc12e0,1,Australia,205,2,50.0,300,4.1,False
+0da97d39-09c7-5bdc-9f57-70e8b5bc12e0,2,Pakistan,207,4,45.5,275,4.52,False
+6249a532-1ba1-529c-9f36-cefb5c526d4f,1,India Women,180,6,20.0,120,9.0,False
+6249a532-1ba1-529c-9f36-cefb5c526d4f,2,Pakistan Women,149,10,15.3,93,9.61,True
+da8de021-a80e-551a-83c3-9239b9a76221,1,India,178,7,20.0,120,8.9,False
+da8de021-a80e-551a-83c3-9239b9a76221,2,Bangladesh,183,3,16.0,96,11.44,False
+1c7de510-8810-5c39-b2f0-c3a9d7c0d6d4,1,India,342,10,149.3,897,2.29,True
+1c7de510-8810-5c39-b2f0-c3a9d7c0d6d4,2,Australia,315,10,102.2,614,3.08,True
+1c7de510-8810-5c39-b2f0-c3a9d7c0d6d4,3,India,195,10,103.4,622,1.88,True
+1c7de510-8810-5c39-b2f0-c3a9d7c0d6d4,4,Australia,200,10,95.1,571,2.1,True
+fe74b4a6-bfbf-538d-abf4-52b98f7bd6eb,1,Pakistan,181,8,20.0,120,9.05,False
+fe74b4a6-bfbf-538d-abf4-52b98f7bd6eb,2,West Indies,156,4,20.0,120,7.8,False
+aa4fa176-c6cd-5e7f-b47d-665967c63874,1,Pakistan,295,10,128.1,769,2.3,True
+aa4fa176-c6cd-5e7f-b47d-665967c63874,2,England,363,10,76.0,456,4.78,True
+aa4fa176-c6cd-5e7f-b47d-665967c63874,3,Pakistan,309,10,105.5,635,2.92,True
+aa4fa176-c6cd-5e7f-b47d-665967c63874,4,England,246,4,80.2,482,3.06,False
+e086d7e5-3586-5923-a728-a3a2ce6adf1d,1,Bangladesh,331,10,130.2,782,2.54,True
+e086d7e5-3586-5923-a728-a3a2ce6adf1d,2,India,388,10,132.0,792,2.94,True
+e086d7e5-3586-5923-a728-a3a2ce6adf1d,3,Bangladesh,487,10,84.2,506,5.77,True
+e086d7e5-3586-5923-a728-a3a2ce6adf1d,4,India,213,10,85.1,511,2.5,True
+dacc6d2b-c5d1-558e-8fbb-22df4c4a8d4e,1,Australia Women,165,6,20.0,120,8.25,False
+dacc6d2b-c5d1-558e-8fbb-22df4c4a8d4e,2,Pakistan Women,126,10,16.4,100,7.56,True
+9bd12952-9e47-5056-8d99-c95ca5af6252,1,Australia Women,216,4,50.0,300,4.32,False
+9bd12952-9e47-5056-8d99-c95ca5af6252,2,Pakistan Women,220,3,32.4,196,6.73,False
+2de5f981-fdc0-5417-82af-19930d4e5d33,1,West Indies,174,10,16.0,96,10.88,True
+2de5f981-fdc0-5417-82af-19930d4e5d33,2,Australia,120,9,20.0,120,6.0,False
+79e7e54a-177f-58dd-832f-09298a036451,1,West Indies,247,5,50.0,300,4.94,False
+79e7e54a-177f-58dd-832f-09298a036451,2,India,250,7,43.2,260,5.77,False
+5f4b0fa4-4a9a-5770-ae81-0f8d7bdfa454,1,West Indies,587,10,132.1,793,4.44,True
+5f4b0fa4-4a9a-5770-ae81-0f8d7bdfa454,2,Pakistan,171,10,147.2,884,1.16,True
+5f4b0fa4-4a9a-5770-ae81-0f8d7bdfa454,3,Pakistan,167,10,110.2,662,1.51,True
+fe770be4-c011-52d2-908d-4f2c55805f48,1,Sri Lanka,120,5,20.0,120,6.0,False
+fe770be4-c011-52d2-908d-4f2c55805f48,2,Afghanistan,122,0,17.0,102,7.18,False
+5f303337-86ce-5872-b5f6-f5f525a8b219,1,Pakistan,177,4,20.0,120,8.85,False
+5f303337-86ce-5872-b5f6-f5f525a8b219,2,West Indies,155,9,20.0,120,7.75,False
+39dc6f10-e35b-58d0-8e0f-fea1a4fa1c97,1,Australia Women,220,10,13.5,83,15.9,True
+39dc6f10-e35b-58d0-8e0f-fea1a4fa1c97,2,England Women,150,6,20.0,120,7.5,False
+3b13e49d-e3fc-5974-b32e-1a0dddfeb728,1,Bangladesh,211,10,47.4,286,4.43,True
+3b13e49d-e3fc-5974-b32e-1a0dddfeb728,2,England,215,1,34.5,209,6.17,False
+33fedfcd-cfb2-5f99-b40b-4192ce781a9b,1,South Africa,218,10,12.5,77,16.99,True
+33fedfcd-cfb2-5f99-b40b-4192ce781a9b,2,Afghanistan,148,10,11.4,70,12.69,True
+0192a2c1-0343-5aa0-8a7f-bd0c27b3e040,1,Pakistan,152,3,20.0,120,7.6,False
+0192a2c1-0343-5aa0-8a7f-bd0c27b3e040,2,New Zealand,151,10,11.2,68,13.32,True
+aa45fffd-a3a4-5b53-9073-6c297f146e7f,1,Australia,287,6,50.0,300,5.74,False
+aa45fffd-a3a4-5b53-9073-6c297f146e7f,2,Bangladesh,289,2,31.3,189,9.17,False
+54b32d24-9b6b-50e9-9735-97dfb02c2645,1,Australia Women,284,5,50.0,300,5.68,False
+54b32d24-9b6b-50e9-9735-97dfb02c2645,2,India Women,174,9,50.0,300,3.48,False
+9a6a2e2c-ddde-5b5f-b8b7-18d4575b0c65,1,New Zealand,256,3,50.0,300,5.12,False
+9a6a2e2c-ddde-5b5f-b8b7-18d4575b0c65,2,Bangladesh,262,8,45.2,272,5.78,False
+e6666103-518b-5881-8a48-91fdd2203f39,1,Pakistan,110,4,20.0,120,5.5,False
+e6666103-518b-5881-8a48-91fdd2203f39,2,South Africa,115,3,14.2,86,8.02,False
+0c262a2d-d237-5aef-8167-7bd3775a9942,1,Bangladesh,486,10,120.0,720,4.05,True
+0c262a2d-d237-5aef-8167-7bd3775a9942,2,South Africa,295,10,93.1,559,3.17,True
+0c262a2d-d237-5aef-8167-7bd3775a9942,3,Bangladesh,226,10,128.0,768,1.77,True
+0c262a2d-d237-5aef-8167-7bd3775a9942,4,South Africa,419,7,86.3,519,4.84,False
+e0f64db3-5502-5123-bee9-61c986e2d5b9,1,Afghanistan,109,8,20.0,120,5.45,False
+e0f64db3-5502-5123-bee9-61c986e2d5b9,2,New Zealand,110,1,18.2,110,6.0,False
+4b0da7aa-83a7-5c4b-bda1-9282fc6058e1,1,India,169,3,20.0,120,8.45,False
+4b0da7aa-83a7-5c4b-bda1-9282fc6058e1,2,West Indies,173,4,14.4,88,11.8,False
+a962b1f5-f51a-502e-84a7-467e85bd90d6,1,West Indies,183,8,50.0,300,3.66,False
+a962b1f5-f51a-502e-84a7-467e85bd90d6,2,South Africa,184,7,35.5,215,5.13,False
+ce584b9e-e87d-5585-ada2-e4d1e915feb6,1,Bangladesh,261,4,50.0,300,5.22,False
+ce584b9e-e87d-5585-ada2-e4d1e915feb6,2,West Indies,262,0,48.3,291,5.4,False
+5d04d05f-2a4f-5345-8d61-8c3a445dbe00,1,South Africa,331,10,91.5,551,3.6,True
+5d04d05f-2a4f-5345-8d61-8c3a445dbe00,2,England,366,10,140.3,843,2.6,True
+5d04d05f-2a4f-5345-8d61-8c3a445dbe00,3,South Africa,317,10,79.0,474,4.01,True
+5d04d05f-2a4f-5345-8d61-8c3a445dbe00,4,England,285,1,108.3,651,2.63,False
+183eecfb-09b7-5096-8d4c-95442f5cfd22,1,South Africa,176,4,20.0,120,8.8,False
+183eecfb-09b7-5096-8d4c-95442f5cfd22,2,Australia,168,6,20.0,120,8.4,False
+412cbdeb-2c0b-5397-9b30-43e0373800e6,1,Bangladesh,164,7,20.0,120,8.2,False
+412cbdeb-2c0b-5397-9b30-43e0373800e6,2,India,165,8,10.1,61,16.23,False
+ec27cce0-da76-5d77-b27f-f35ebe5ed0df,1,Pakistan,661,10,134.5,809,4.9,True
+ec27cce0-da76-5d77-b27f-f35ebe5ed0df,2,Australia,326,10,89.1,535,3.66,True
+ec27cce0-da76-5d77-b27f-f35ebe5ed0df,3,Australia,90,10,137.1,823,0.66,True
+bca1aa77-1fc1-524c-9fe4-f417a2f9efae,1,South Africa,227,3,50.0,300,4.54,False
+bca1aa77-1fc1-524c-9fe4-f417a2f9efae,2,Sri Lanka,228,5,43.3,261,5.24,False
+1b254a74-1b87-596d-9871-6b246136120a,1,Sri Lanka,215,8,20.0,120,10.75,False
+1b254a74-1b87-596d-9871-6b246136120a,2,India,172,7,20.0,120,8.6,False
+37e45071-881d-5b4c-a57c-fe59daa480ea,1,India Women,139,10,16.4,100,8.34,True
+37e45071-881d-5b4c-a57c-fe59daa480ea,2,England Women,145,5,14.0,84,10.36,False
+f7a6f18d-53dd-50fb-b504-bcf48e286cea,1,Afghanistan,262,3,50.0,300,5.24,False
+f7a6f18d-53dd-50fb-b504-bcf48e286cea,2,England,268,4,28.0,168,9.57,False
+ef75c2d6-5a39-5296-8f86-af10eea41074,1,England,133,5,20.0,120,6.65,False
+ef75c2d6-5a39-5296-8f86-af10eea41074,2,Sri Lanka,109,10,15.5,95,6.88,True
+4b27cd5a-0d84-552f-9402-89335417c6e6,1,Australia,254,7,50.0,300,5.08,False
+4b27cd5a-0d84-552f-9402-89335417c6e6,2,New Zealand,258,2,44.2,266,5.82,False
+65088464-9d3a-59db-bdff-b3cf8ba2a7bd,1,England,301,9,50.0,300,6.02,False
+65088464-9d3a-59db-bdff-b3cf8ba2a7bd,2,New Zealand,260,6,50.0,300,5.2,False
+3d2b7404-9d41-512b-adc6-3372dc464225,1,England Women,150,2,20.0,120,7.5,False
+3d2b7404-9d41-512b-adc6-3372dc464225,2,Pakistan Women,153,1,17.1,103,8.91,False
+b26e6306-69e3-587c-8877-5a943e09273f,1,England,194,10,131.2,788,1.48,True
+b26e6306-69e3-587c-8877-5a943e09273f,2,Afghanistan,60,10,94.4,568,0.63,True
+b26e6306-69e3-587c-8877-5a943e09273f,3,England,443,10,125.0,750,3.54,True
+b26e6306-69e3-587c-8877-5a943e09273f,4,Afghanistan,578,4,126.4,760,4.56,False
+3bad1bdc-5eca-50b1-9db1-e82ba9ba7c54,1,South Africa,212,10,16.1,97,13.11,True
+3bad1bdc-5eca-50b1-9db1-e82ba9ba7c54,2,Afghanistan,202,10,15.2,92,13.17,True
+5c662dc7-a105-5cc8-b02d-d38b5c6a73ea,1,Pakistan,145,3,20.0,120,7.25,False
+5c662dc7-a105-5cc8-b02d-d38b5c6a73ea,2,West Indies,149,2,11.1,67,13.34,False
+b1d2ce8f-5725-5753-8b4e-8ccf6f8a5868,1,Bangladesh,154,7,20.0,120,7.7,False
+b1d2ce8f-5725-5753-8b4e-8ccf6f8a5868,2,West Indies,151,10,17.4,106,8.55,True
+1d9ea465-5062-549e-a263-a5066e197f83,1,Bangladesh,157,5,20.0,120,7.85,False
+1d9ea465-5062-549e-a263-a5066e197f83,2,Sri Lanka,135,9,20.0,120,6.75,False
+af60f1b8-fe40-5e21-a545-c8cfe87311a7,1,West Indies,135,7,20.0,120,6.75,False
+af60f1b8-fe40-5e21-a545-c8cfe87311a7,2,Afghanistan,137,1,12.0,72,11.42,False
+bc317388-4825-58bb-b109-dfc2fdcfde27,1,Pakistan Women,280,8,50.0,300,5.6,False
+bc317388-4825-58bb-b109-dfc2fdcfde27,2,Australia Women,189,10,40.5,245,4.63,True
+1bd20a7e-b2fe-5401-9e87-6836b8cdb066,1,India,379,9,50.0,300,7.58,False
+1bd20a7e-b2fe-5401-9e87-6836b8cdb066,2,West Indies,223,6,50.0,300,4.46,False
+b5f6621e-1b07-5aeb-886e-727be82cdcef,1,England,199,3,50.0,300,3.98,False
+b5f6621e-1b07-5aeb-886e-727be82cdcef,2,New Zealand,205,4,46.5,281,4.38,False
+fb3e0759-ab21-5229-b27d-91f318d308d6,1,India Women,299,9,50.0,300,5.98,False
+fb3e0759-ab21-5229-b27d-91f318d308d6,2,England Women,301,0,26.2,158,11.43,False
+a9bc1cc8-0404-501c-9903-d2b2b3f71a09,1,India,309,8,50.0,300,6.18,False
+a9bc1cc8-0404-501c-9903-d2b2b3f71a09,2,West Indies,283,9,50.0,300,5.66,False
+d9d559ff-d901-5647-80a3-557f005801e7,1,Pakistan Women,247,7,50.0,300,4.94,False
+d9d559ff-d901-5647-80a3-557f005801e7,2,Australia Women,212,7,50.0,300,4.24,False
+42385025-8f1e-5112-a800-8f3b673fadca,1,Pakistan,208,9,50.0,300,4.16,False
+42385025-8f1e-5112-a800-8f3b673fadca,2,Australia,213,3,36.4,220,5.81,False
+039071d8-7718-5aee-a16a-ad5c97a41807,1,England Women,119,10,17.3,105,6.8,True
+039071d8-7718-5aee-a16a-ad5c97a41807,2,India Women,122,9,12.2,74,9.89,False
+3dbb6b87-e2f5-55b4-9acc-ad2c8f6cf396,1,India Women,198,7,20.0,120,9.9,False
+3dbb6b87-e2f5-55b4-9acc-ad2c8f6cf396,2,Australia Women,149,9,20.0,120,7.45,False
+0c3d8367-3174-55b5-ab6f-0ffbfeb432bd,1,West Indies,143,10,17.1,103,8.33,True
+0c3d8367-3174-55b5-ab6f-0ffbfeb432bd,2,Afghanistan,147,0,12.5,77,11.45,False
+735fcd54-44a6-5fa1-a288-7fba7bc51ec3,1,Bangladesh,154,7,20.0,120,7.7,False
+735fcd54-44a6-5fa1-a288-7fba7bc51ec3,2,Australia,157,9,19.3,117,8.05,False
+d28ec5e2-e52e-5792-8a8f-75cb1d9917f5,1,England,145,4,20.0,120,7.25,False
+d28ec5e2-e52e-5792-8a8f-75cb1d9917f5,2,Bangladesh,151,9,14.0,84,10.79,False
+a6460ff8-af08-53e6-bf0f-8c6acc65daee,1,Pakistan Women,153,9,20.0,120,7.65,False
+a6460ff8-af08-53e6-bf0f-8c6acc65daee,2,India Women,152,10,16.2,98,9.31,True
+f079cdf3-54fd-554e-8c14-e5c20ee5ea63,1,South Africa,182,2,20.0,120,9.1,False
+f079cdf3-54fd-554e-8c14-e5c20ee5ea63,2,Australia,126,10,10.1,61,12.39,True
+49e9431e-05a3-5e69-8faf-cf084460d999,1,New Zealand,124,10,96.1,577,1.29,True
+49e9431e-05a3-5e69-8faf-cf084460d999,2,Bangladesh,140,10,144.2,866,0.97,True
+49e9431e-05a3-5e69-8faf-cf084460d999,3,New Zealand,405,10,73.2,440,5.52,True
+49e9431e-05a3-5e69-8faf-cf084460d999,4,Bangladesh,165,10,106.5,641,1.54,True
+6dc4ea63-ff5c-5d52-9a51-1072e597ae42,1,Afghanistan,108,8,20.0,120,5.4,False
+6dc4ea63-ff5c-5d52-9a51-1072e597ae42,2,West Indies,112,0,15.1,91,7.38,False
+69cdb351-e7f4-5d88-a6a1-1d32ed77d011,1,Bangladesh,220,4,50.0,300,4.4,False
+69cdb351-e7f4-5d88-a6a1-1d32ed77d011,2,West Indies,222,5,36.5,221,6.03,False
+131579b5-69ee-5156-96f9-c74b19d0eaa5,1,Bangladesh,199,6,20.0,120,9.95,False
+131579b5-69ee-5156-96f9-c74b19d0eaa5,2,Pakistan,183,10,18.0,108,10.17,True
+881efc71-2b26-52d0-bde6-00e1715e48ef,1,Australia,284,4,50.0,300,5.68,False
+881efc71-2b26-52d0-bde6-00e1715e48ef,2,Bangladesh,286,1,44.0,264,6.5,False
+bb111ea7-841b-5061-8950-b7d3381a9545,1,Australia,410,10,71.2,428,5.75,True
+bb111ea7-841b-5061-8950-b7d3381a9545,2,India,260,10,112.0,672,2.32,True
+bb111ea7-841b-5061-8950-b7d3381a9545,3,Australia,253,7,119.1,715,2.12,False
+bb111ea7-841b-5061-8950-b7d3381a9545,4,India,180,4,91.4,550,1.96,False
+5f42a7c9-2558-5af8-a12a-b0f84555703e,1,Pakistan,192,9,20.0,120,9.6,False
+5f42a7c9-2558-5af8-a12a-b0f84555703e,2,Bangladesh,132,10,15.2,92,8.61,True
+c5939f44-be15-5e07-8b90-65a86c0d1909,1,Pakistan,258,6,50.0,300,5.16,False
+c5939f44-be15-5e07-8b90-65a86c0d1909,2,South Africa,238,10,38.5,233,6.13,True
+4f88ba9e-c2d6-5952-998a-ac1407d2f9a6,1,Australia,206,10,18.5,113,10.94,True
+4f88ba9e-c2d6-5952-998a-ac1407d2f9a6,2,Sri Lanka,122,10,18.4,112,6.54,True
+6d99d00d-ede3-5513-a362-6a0ad6f6f2d2,1,South Africa,207,7,50.0,300,4.14,False
+6d99d00d-ede3-5513-a362-6a0ad6f6f2d2,2,Bangladesh,212,8,46.4,280,4.54,False
+7571273e-c35a-5328-b692-a33fa8af22e2,1,West Indies,157,8,20.0,120,7.85,False
+7571273e-c35a-5328-b692-a33fa8af22e2,2,England,161,3,13.3,81,11.93,False
+756d9b59-b904-5ea2-ac41-4781b818e342,1,Afghanistan,355,10,73.2,440,4.84,True
+756d9b59-b904-5ea2-ac41-4781b818e342,2,South Africa,261,10,71.5,431,3.63,True
+756d9b59-b904-5ea2-ac41-4781b818e342,3,Afghanistan,222,10,128.1,769,1.73,True
+756d9b59-b904-5ea2-ac41-4781b818e342,4,South Africa,253,10,85.0,510,2.98,True
+dbaee3c3-9af4-5e25-8425-6525f1277ef6,1,New Zealand,158,6,20.0,120,7.9,False
+dbaee3c3-9af4-5e25-8425-6525f1277ef6,2,South Africa,159,4,10.5,65,14.68,False
+c8946b8c-ca5f-5b68-b60e-c007fc2b2dd2,1,Bangladesh,167,9,20.0,120,8.35,False
+c8946b8c-ca5f-5b68-b60e-c007fc2b2dd2,2,Australia,171,9,13.5,83,12.36,False
+0851398e-6742-5fbe-9d62-253140d69127,1,England Women,239,7,50.0,300,4.78,False
+0851398e-6742-5fbe-9d62-253140d69127,2,Pakistan Women,240,2,36.0,216,6.67,False
+d1b022b8-0dbd-5272-a6d8-00cf07292905,1,South Africa,155,8,20.0,120,7.75,False
+d1b022b8-0dbd-5272-a6d8-00cf07292905,2,Bangladesh,159,9,14.0,84,11.36,False
+1d43e115-ffae-55a2-86ce-5d638b331d9f,1,New Zealand,274,10,112.3,675,2.44,True
+1d43e115-ffae-55a2-86ce-5d638b331d9f,2,Pakistan,338,10,127.1,763,2.66,True
+1d43e115-ffae-55a2-86ce-5d638b331d9f,3,New Zealand,502,10,96.1,577,5.22,True
+1d43e115-ffae-55a2-86ce-5d638b331d9f,4,Pakistan,311,10,93.0,558,3.34,True
+210d5b76-efb7-5ba9-bb65-aca5a0633435,1,New Zealand,257,6,50.0,300,5.14,False
+210d5b76-efb7-5ba9-bb65-aca5a0633435,2,South Africa,260,1,29.5,179,8.72,False
+c8b8c8d1-c8ef-523f-8245-6784772e3f89,1,Pakistan,317,2,50.0,300,6.34,False
+c8b8c8d1-c8ef-523f-8245-6784772e3f89,2,Australia,281,3,50.0,300,5.62,False
+edfdb787-e701-5bc7-afd4-1bc762a50370,1,South Africa,70,5,20.0,120,3.5,False
+edfdb787-e701-5bc7-afd4-1bc762a50370,2,Pakistan,73,8,19.4,118,3.71,False
+88e401f1-c17c-5f54-b2b9-fa470e0fa9ef,1,Bangladesh,358,3,50.0,300,7.16,False
+88e401f1-c17c-5f54-b2b9-fa470e0fa9ef,2,Sri Lanka,214,9,50.0,300,4.28,False
+65e0c59b-cadb-565e-ac3c-4b4032c6436a,1,Pakistan,156,3,20.0,120,7.8,False
+65e0c59b-cadb-565e-ac3c-4b4032c6436a,2,Bangladesh,157,9,16.1,97,9.71,False
+dabc6191-5730-5e03-871e-63d59a8b2906,1,New Zealand,282,5,50.0,300,5.64,False
+dabc6191-5730-5e03-871e-63d59a8b2906,2,Afghanistan,288,8,39.0,234,7.38,False
+d4af32da-95b1-56a3-b5a9-1fe5a0bb0b0f,1,South Africa,463,10,141.3,849,3.27,True
+d4af32da-95b1-56a3-b5a9-1fe5a0bb0b0f,2,New Zealand,403,10,81.4,490,4.93,True
+d4af32da-95b1-56a3-b5a9-1fe5a0bb0b0f,3,South Africa,461,10,117.3,705,3.92,True
+d4af32da-95b1-56a3-b5a9-1fe5a0bb0b0f,4,New Zealand,322,10,128.5,773,2.5,True
+7bb969e6-3446-5400-8524-80325dbaed10,1,India Women,148,8,20.0,120,7.4,False
+7bb969e6-3446-5400-8524-80325dbaed10,2,England Women,150,0,18.1,109,8.26,False
+0af80b6b-a472-504b-9fc4-ccd56cad5d2e,1,Pakistan,149,4,20.0,120,7.45,False
+0af80b6b-a472-504b-9fc4-ccd56cad5d2e,2,Afghanistan,151,6,19.5,119,7.61,False
+e17382ee-4d08-5223-9cb5-a576bb8a245c,1,New Zealand,424,10,71.3,429,5.93,True
+e17382ee-4d08-5223-9cb5-a576bb8a245c,2,Sri Lanka,355,10,102.4,616,3.46,True
+e17382ee-4d08-5223-9cb5-a576bb8a245c,3,New Zealand,209,10,140.5,845,1.48,True
+e17382ee-4d08-5223-9cb5-a576bb8a245c,4,Sri Lanka,280,5,118.2,710,2.37,False
+75b9c781-3f6d-55fa-8efa-ecea817b0ab2,1,Australia,228,9,50.0,300,4.56,False
+75b9c781-3f6d-55fa-8efa-ecea817b0ab2,2,South Africa,230,9,48.1,289,4.78,False
+e50f1fd2-2d65-53dc-9047-232e5f647e9b,1,Afghanistan,350,7,50.0,300,7.0,False
+e50f1fd2-2d65-53dc-9047-232e5f647e9b,2,Sri Lanka,292,10,36.3,219,8.0,True
+60950ef4-1cfd-5837-838a-d611c6fcce8e,1,Pakistan,370,10,118.0,708,3.14,True
+60950ef4-1cfd-5837-838a-d611c6fcce8e,2,New Zealand,375,10,79.2,476,4.73,True
+60950ef4-1cfd-5837-838a-d611c6fcce8e,3,Pakistan,236,10,106.5,641,2.21,True
+60950ef4-1cfd-5837-838a-d611c6fcce8e,4,New Zealand,224,10,92.1,553,2.43,True
+031e8212-b8ef-5a50-9540-77e1508d9e4f,1,New Zealand,335,10,81.4,490,4.1,True
+031e8212-b8ef-5a50-9540-77e1508d9e4f,2,India,268,10,136.3,819,1.96,True
+031e8212-b8ef-5a50-9540-77e1508d9e4f,3,New Zealand,138,7,84.0,504,1.64,False
+031e8212-b8ef-5a50-9540-77e1508d9e4f,4,India,180,4,103.3,621,1.74,False
+5bfef123-7b8e-5338-b3a3-264ae4b3d3b0,1,West Indies,730,10,106.1,637,6.88,True
+5bfef123-7b8e-5338-b3a3-264ae4b3d3b0,2,India,337,10,103.1,619,3.27,True
+5bfef123-7b8e-5338-b3a3-264ae4b3d3b0,3,India,316,10,74.2,446,4.25,True
+65f82f2e-dcb1-5f18-ba0f-deb1a72976c1,1,Bangladesh,151,3,20.0,120,7.55,False
+65f82f2e-dcb1-5f18-ba0f-deb1a72976c1,2,Australia,154,2,11.3,69,13.39,False
+01025c02-67b8-5201-ad01-317848eaff7b,1,India Women,136,9,20.0,120,6.8,False
+01025c02-67b8-5201-ad01-317848eaff7b,2,Australia Women,141,3,16.4,100,8.46,False
+bfa2911f-d373-5999-bcba-c61862653c79,1,Bangladesh,454,10,96.4,580,4.7,True
+bfa2911f-d373-5999-bcba-c61862653c79,2,New Zealand,246,10,86.3,519,2.84,True
+bfa2911f-d373-5999-bcba-c61862653c79,3,Bangladesh,254,7,113.4,682,2.23,False
+bfa2911f-d373-5999-bcba-c61862653c79,4,New Zealand,180,4,127.2,764,1.41,False
+b4f64ae2-d4f5-5169-a66d-0ac51b84b080,1,India Women,192,3,20.0,120,9.6,False
+b4f64ae2-d4f5-5169-a66d-0ac51b84b080,2,Australia Women,165,10,19.5,119,8.32,True
+b8f2a772-7cda-5ee4-bd87-cb55a0b2f906,1,Bangladesh,508,10,128.0,768,3.97,True
+b8f2a772-7cda-5ee4-bd87-cb55a0b2f906,2,Afghanistan,230,10,115.4,694,1.99,True
+b8f2a772-7cda-5ee4-bd87-cb55a0b2f906,3,Afghanistan,212,10,114.2,686,1.85,True
+4c6e6b2d-48bd-544e-9639-f9f904c2baf6,1,Australia,157,2,20.0,120,7.85,False
+4c6e6b2d-48bd-544e-9639-f9f904c2baf6,2,New Zealand,135,10,17.1,103,7.86,True
+35ed55dd-ae1e-5de8-adf9-2a870b5b5649,1,India Women,252,3,50.0,300,5.04,False
+35ed55dd-ae1e-5de8-adf9-2a870b5b5649,2,Australia Women,257,1,45.5,275,5.61,False
+6ff77d7d-baf4-5586-a965-a667feaca61e,1,New Zealand,130,3,20.0,120,6.5,False
+6ff77d7d-baf4-5586-a965-a667feaca61e,2,South Africa,136,0,14.1,85,9.6,False
+d10cbdbe-884a-519f-b670-748896126534,1,England,668,10,103.1,619,6.47,True
+d10cbdbe-884a-519f-b670-748896126534,2,Pakistan,283,10,134.5,809,2.1,True
+d10cbdbe-884a-519f-b670-748896126534,3,Pakistan,292,10,72.5,437,4.01,True
+6bf86595-ccc6-5ee4-a5c7-29cd0843f2d9,1,Bangladesh,173,9,20.0,120,8.65,False
+6bf86595-ccc6-5ee4-a5c7-29cd0843f2d9,2,West Indies,176,0,12.2,74,14.27,False
+9bb32600-3d5a-5293-8e7b-46554cefa98c,1,West Indies,337,10,95.1,571,3.54,True
+9bb32600-3d5a-5293-8e7b-46554cefa98c,2,Pakistan,286,10,85.5,515,3.33,True
+9bb32600-3d5a-5293-8e7b-46554cefa98c,3,West Indies,252,10,78.4,472,3.2,True
+9bb32600-3d5a-5293-8e7b-46554cefa98c,4,Pakistan,309,6,139.0,834,2.22,False
+25a5df18-d4e1-5485-8a82-ed0bccf04047,1,New Zealand,189,10,122.2,734,1.54,True
+25a5df18-d4e1-5485-8a82-ed0bccf04047,2,West Indies,337,10,114.2,686,2.95,True
+25a5df18-d4e1-5485-8a82-ed0bccf04047,3,New Zealand,574,10,95.5,575,5.99,True
+25a5df18-d4e1-5485-8a82-ed0bccf04047,4,West Indies,336,10,97.0,582,3.46,True
+3f1c4169-060d-530d-9656-bc198abc44e5,1,England,156,6,20.0,120,7.8,False
+3f1c4169-060d-530d-9656-bc198abc44e5,2,Bangladesh,161,1,15.0,90,10.73,False
+01429502-78c6-5aa0-91b6-883390ca462d,1,England,669,10,72.2,434,9.25,True
+01429502-78c6-5aa0-91b6-883390ca462d,2,Afghanistan,389,10,129.0,774,3.02,True
+01429502-78c6-5aa0-91b6-883390ca462d,3,Afghanistan,255,10,138.1,829,1.85,True
+0e7d45f4-a1a2-5865-a661-7272a6e70410,1,Afghanistan,345,10,89.5,539,3.84,True
+0e7d45f4-a1a2-5865-a661-7272a6e70410,2,Australia,224,10,76.5,461,2.92,True
+0e7d45f4-a1a2-5865-a661-7272a6e70410,3,Afghanistan,79,10,133.5,803,0.59,True
+0e7d45f4-a1a2-5865-a661-7272a6e70410,4,Australia,202,5,138.1,829,1.46,False
+d123a830-d7d1-5549-8249-5203320b7c88,1,Afghanistan,80,7,20.0,120,4.0,False
+d123a830-d7d1-5549-8249-5203320b7c88,2,South Africa,86,4,19.2,116,4.45,False
+c69b23d0-9709-56c8-8774-941ee2f18132,1,India,311,10,94.3,567,3.29,True
+c69b23d0-9709-56c8-8774-941ee2f18132,2,Australia,290,10,83.3,501,3.47,True
+c69b23d0-9709-56c8-8774-941ee2f18132,3,India,345,7,123.0,738,2.8,False
+c69b23d0-9709-56c8-8774-941ee2f18132,4,Australia,126,4,100.4,604,1.25,False
+5a807a26-7899-5ec9-935b-63e14327f919,1,South Africa,125,6,20.0,120,6.25,False
+5a807a26-7899-5ec9-935b-63e14327f919,2,Pakistan,131,2,18.2,110,7.15,False
+83b86263-8a7f-5f34-9a63-fcf4aed17682,1,Pakistan,294,3,50.0,300,5.88,False
+83b86263-8a7f-5f34-9a63-fcf4aed17682,2,Bangladesh,213,6,50.0,300,4.26,False
+716c6756-ce5a-5334-ac24-09e40be67b64,1,India,361,10,144.0,864,2.51,True
+716c6756-ce5a-5334-ac24-09e40be67b64,2,England,413,10,143.5,863,2.87,True
+716c6756-ce5a-5334-ac24-09e40be67b64,3,India,219,7,115.4,694,1.89,False
+716c6756-ce5a-5334-ac24-09e40be67b64,4,England,180,4,101.4,610,1.77,False
+fe6f433a-b2b3-5129-8d1e-d5dac8e41b30,1,Afghanistan,199,3,20.0,120,9.95,False
+fe6f433a-b2b3-5129-8d1e-d5dac8e41b30,2,Pakistan,111,7,20.0,120,5.55,False
+8580be60-4ce3-501b-aef7-e59800e3e5ff,1,England,351,10,38.4,232,9.08,True
+8580be60-4ce3-501b-aef7-e59800e3e5ff,2,New Zealand,112,10,36.1,217,3.1,True
+379a20a3-ef46-543f-adbe-bd82606c1a98,1,India,351,2,50.0,300,7.02,False
+379a20a3-ef46-543f-adbe-bd82606c1a98,2,Pakistan,295,10,32.5,197,8.98,True
+b7e519e0-d700-557f-ab47-842f8e81e0bb,1,India,508,10,99.5,599,5.09,True
+b7e519e0-d700-557f-ab47-842f8e81e0bb,2,Australia,213,10,90.3,543,2.35,True
+b7e519e0-d700-557f-ab47-842f8e81e0bb,3,Australia,278,10,122.3,735,2.27,True
+447470fc-cb99-5e82-80b7-6336f020a818,1,Afghanistan,726,10,137.2,824,5.29,True
+447470fc-cb99-5e82-80b7-6336f020a818,2,New Zealand,339,10,96.4,580,3.51,True
+447470fc-cb99-5e82-80b7-6336f020a818,3,New Zealand,297,10,79.3,477,3.74,True
+b2e0c882-934c-55c4-8b60-b75409c718e0,1,Sri Lanka,151,3,20.0,120,7.55,False
+b2e0c882-934c-55c4-8b60-b75409c718e0,2,Bangladesh,130,10,11.3,69,11.3,True
+1526b426-e48a-5a65-b123-cde89a89f351,1,Afghanistan,171,8,20.0,120,8.55,False
+1526b426-e48a-5a65-b123-cde89a89f351,2,West Indies,175,7,16.3,99,10.61,False
+360f7a9a-2c2c-5154-b7d7-8dacc17c3358,1,England Women,156,8,20.0,120,7.8,False
+360f7a9a-2c2c-5154-b7d7-8dacc17c3358,2,Pakistan Women,161,4,16.1,97,9.96,False
+99a5b4a9-bb65-5452-84ec-dfe363ac433c,1,Bangladesh,295,7,50.0,300,5.9,False
+99a5b4a9-bb65-5452-84ec-dfe363ac433c,2,New Zealand,272,8,50.0,300,5.44,False
+ac155361-7a4e-5b9f-8aae-69cb0368e921,1,Sri Lanka,153,8,20.0,120,7.65,False
+ac155361-7a4e-5b9f-8aae-69cb0368e921,2,England,157,1,10.5,65,14.49,False
+b99b16e2-81ca-5723-88f3-8a534f7faaa7,1,Bangladesh,225,8,50.0,300,4.5,False
+b99b16e2-81ca-5723-88f3-8a534f7faaa7,2,Sri Lanka,230,4,45.0,270,5.11,False
+2bacd8dd-7bda-5a36-bf68-11a4b54a3a46,1,India,287,6,50.0,300,5.74,False
+2bacd8dd-7bda-5a36-bf68-11a4b54a3a46,2,Pakistan,206,10,45.2,272,4.54,True
+6540533a-da39-5e28-8fcc-de7aa45d19d0,1,Bangladesh,158,3,20.0,120,7.9,False
+6540533a-da39-5e28-8fcc-de7aa45d19d0,2,Pakistan,160,3,11.0,66,14.55,False
+ab461a6e-d054-582e-806b-cf4f6ef7d047,1,England,252,2,50.0,300,5.04,False
+ab461a6e-d054-582e-806b-cf4f6ef7d047,2,Australia,200,9,50.0,300,4.0,False
+64ad081f-1dde-58cb-bf00-ab7e0572be04,1,England Women,179,6,20.0,120,8.95,False
+64ad081f-1dde-58cb-bf00-ab7e0572be04,2,India Women,177,10,15.3,93,11.42,True
+01fb6d58-841b-58e9-a31e-2ce2cfc8bd65,1,Bangladesh,306,10,135.3,813,2.26,True
+01fb6d58-841b-58e9-a31e-2ce2cfc8bd65,2,Afghanistan,327,10,120.5,725,2.71,True
+01fb6d58-841b-58e9-a31e-2ce2cfc8bd65,3,Bangladesh,241,7,104.2,626,2.31,False
+01fb6d58-841b-58e9-a31e-2ce2cfc8bd65,4,Afghanistan,180,4,149.3,897,1.2,False
+8a453c5d-171c-5d5d-b037-38152e64fb36,1,South Africa,264,10,143.4,862,1.84,True
+8a453c5d-171c-5d5d-b037-38152e64fb36,2,Sri Lanka,321,10,81.1,487,3.95,True
+8a453c5d-171c-5d5d-b037-38152e64fb36,3,South Africa,238,10,124.5,749,1.91,True
+8a453c5d-171c-5d5d-b037-38152e64fb36,4,Sri Lanka,187,9,135.2,812,1.38,False
+8de211fa-1f64-542c-8d47-aa84de6e8666,1,England,170,7,20.0,120,8.5,False
+8de211fa-1f64-542c-8d47-aa84de6e8666,2,Bangladesh,113,10,16.0,96,7.06,True
+9f874ec8-4a8a-5c29-9c11-36c7e48d0976,1,Sri Lanka,156,2,20.0,120,7.8,False
+9f874ec8-4a8a-5c29-9c11-36c7e48d0976,2,West Indies,108,10,13.1,79,8.2,True
+22ff0b78-dfab-5f60-bf63-d0b5f5dc0394,1,Bangladesh,294,7,50.0,300,5.88,False
+22ff0b78-dfab-5f60-bf63-d0b5f5dc0394,2,Pakistan,283,10,49.4,298,5.7,True
+8d5b9f36-8b1f-5ced-9374-36d0375b0123,1,South Africa,166,4,20.0,120,8.3,False
+8d5b9f36-8b1f-5ced-9374-36d0375b0123,2,England,153,10,18.3,111,8.27,True
+8fe08e41-32ff-58b2-aa32-9d42f37e2066,1,West Indies,170,4,20.0,120,8.5,False
+8fe08e41-32ff-58b2-aa32-9d42f37e2066,2,South Africa,171,7,16.2,98,10.47,False
+fede292e-5be2-58df-95d5-6f50bd133cae,1,India,469,10,130.3,783,3.59,True
+fede292e-5be2-58df-95d5-6f50bd133cae,2,Bangladesh,162,10,80.0,480,2.02,True
+fede292e-5be2-58df-95d5-6f50bd133cae,3,Bangladesh,171,10,132.0,792,1.3,True
+1d7da672-d62e-523b-be81-3e141a483e17,1,South Africa,244,5,50.0,300,4.88,False
+1d7da672-d62e-523b-be81-3e141a483e17,2,Pakistan,187,10,41.3,249,4.51,True
+32812553-c6c0-58f8-bc19-fc771d09037f,1,Bangladesh,308,10,127.4,766,2.41,True
+32812553-c6c0-58f8-bc19-fc771d09037f,2,Australia,134,10,143.0,858,0.94,True
+32812553-c6c0-58f8-bc19-fc771d09037f,3,Bangladesh,109,10,148.2,890,0.73,True
+32812553-c6c0-58f8-bc19-fc771d09037f,4,Australia,288,0,98.2,590,2.93,False
+24b6ce91-3183-5b21-96fa-40d874e2a97f,1,India,321,10,89.4,538,3.58,True
+24b6ce91-3183-5b21-96fa-40d874e2a97f,2,England,132,10,86.2,518,1.53,True
+24b6ce91-3183-5b21-96fa-40d874e2a97f,3,India,286,7,88.3,531,3.23,False
+24b6ce91-3183-5b21-96fa-40d874e2a97f,4,England,180,4,93.3,561,1.93,False
+0bc932c7-4153-5596-9402-f3b5fdecf9ac,1,India,240,5,50.0,300,4.8,False
+0bc932c7-4153-5596-9402-f3b5fdecf9ac,2,South Africa,246,3,35.5,215,6.87,False
+3baa3f4f-9aac-5148-bfee-2ed7741497bf,1,Australia,839,10,133.1,799,6.3,True
+3baa3f4f-9aac-5148-bfee-2ed7741497bf,2,Bangladesh,222,10,102.0,612,2.18,True
+3baa3f4f-9aac-5148-bfee-2ed7741497bf,3,Bangladesh,396,10,97.5,587,4.05,True
+bc1d236e-dbf6-5bb7-87b3-df0eb1672b29,1,Sri Lanka,154,3,20.0,120,7.7,False
+bc1d236e-dbf6-5bb7-87b3-df0eb1672b29,2,India,141,10,13.0,78,10.85,True
+64bba9bb-0da1-5944-9d92-9189ce39b4f9,1,Australia,193,3,20.0,120,9.65,False
+64bba9bb-0da1-5944-9d92-9189ce39b4f9,2,West Indies,138,3,20.0,120,6.9,False
+0afb947d-9aa8-54e7-80a3-089b2b28079c,1,Sri Lanka,268,9,50.0,300,5.36,False
+0afb947d-9aa8-54e7-80a3-089b2b28079c,2,India,258,10,42.4,256,6.05,True
+6c93c4fe-3260-5d2c-8c84-5d19dcd5d985,1,Afghanistan,176,8,20.0,120,8.8,False
+6c93c4fe-3260-5d2c-8c84-5d19dcd5d985,2,Bangladesh,178,6,18.5,113,9.45,False
+14891779-7bfc-5241-a403-b920c71d6a98,1,Afghanistan,238,4,50.0,300,4.76,False
+14891779-7bfc-5241-a403-b920c71d6a98,2,Pakistan,240,2,40.2,242,5.95,False
+94d5d28e-1369-5d0d-9b22-47b62625235a,1,Afghanistan,212,2,50.0,300,4.24,False
+94d5d28e-1369-5d0d-9b22-47b62625235a,2,Sri Lanka,203,10,33.2,200,6.09,True
+81a3bf04-00f6-5e05-a3cd-a2bbe0fe90a9,1,West Indies,331,6,50.0,300,6.62,False
+81a3bf04-00f6-5e05-a3cd-a2bbe0fe90a9,2,South Africa,286,10,37.3,225,7.63,True
+9fc6cdaf-7798-5754-a22d-c405d3cca259,1,England,198,10,19.3,117,10.15,True
+9fc6cdaf-7798-5754-a22d-c405d3cca259,2,South Africa,169,10,11.0,66,15.36,True
+937be615-f6ad-5056-9055-3e3733d22838,1,India Women,239,3,50.0,300,4.78,False
+937be615-f6ad-5056-9055-3e3733d22838,2,England Women,242,6,29.1,175,8.3,False
+5a678741-29f0-5afc-82b4-4a4169e12d92,1,New Zealand,190,8,20.0,120,9.5,False
+5a678741-29f0-5afc-82b4-4a4169e12d92,2,West Indies,97,10,12.2,74,7.86,True
+ea9626de-6ed7-5909-b44e-a2f0e31bee08,1,West Indies,140,10,87.1,523,1.61,True
+ea9626de-6ed7-5909-b44e-a2f0e31bee08,2,Pakistan,321,10,145.2,872,2.21,True
+ea9626de-6ed7-5909-b44e-a2f0e31bee08,3,West Indies,301,10,89.5,539,3.35,True
+ea9626de-6ed7-5909-b44e-a2f0e31bee08,4,Pakistan,125,8,105.5,635,1.18,False
+82972222-9c32-5e6c-9f45-de17877c8fe4,1,Pakistan,255,7,50.0,300,5.1,False
+82972222-9c32-5e6c-9f45-de17877c8fe4,2,New Zealand,260,3,35.1,211,7.39,False
+a561edad-c86c-5ea1-a906-5bbf7c18f844,1,India,147,6,20.0,120,7.35,False
+a561edad-c86c-5ea1-a906-5bbf7c18f844,2,Bangladesh,148,1,12.3,75,11.84,False
+1a03d18e-04dc-534c-9e23-b8786c23c7b0,1,Pakistan Women,193,3,50.0,300,3.86,False
+1a03d18e-04dc-534c-9e23-b8786c23c7b0,2,India Women,198,4,34.0,204,5.82,False
+e14b4986-3fc2-57f0-a882-3c90b3ab4b91,1,England,187,3,20.0,120,9.35,False
+e14b4986-3fc2-57f0-a882-3c90b3ab4b91,2,New Zealand,142,10,17.5,107,7.96,True
+0a668305-d59a-52a3-a74c-628801b5c955,1,Bangladesh,205,6,20.0,120,10.25,False
+0a668305-d59a-52a3-a74c-628801b5c955,2,South Africa,163,10,15.3,93,10.52,True
+172552dc-72de-572a-b986-52591ac17e34,1,England Women,151,7,50.0,300,3.02,False
+172552dc-72de-572a-b986-52591ac17e34,2,Australia Women,157,2,39.2,236,3.99,False
+935bc0ee-4124-5ed6-937f-8399062c021e,1,England,631,10,139.4,838,4.52,True
+935bc0ee-4124-5ed6-937f-8399062c021e,2,Australia,167,10,127.5,767,1.31,True
+935bc0ee-4124-5ed6-937f-8399062c021e,3,Australia,232,10,85.5,515,2.7,True
+f565a72e-c152-5479-9a64-c3ac5cf35f82,1,South Africa,252,7,50.0,300,5.04,False
+f565a72e-c152-5479-9a64-c3ac5cf35f82,2,Afghanistan,189,7,50.0,300,3.78,False
+2bc7f295-6516-5586-bf7c-6a1f3ac9a410,1,South Africa,187,10,13.2,80,14.02,True
+2bc7f295-6516-5586-bf7c-6a1f3ac9a410,2,Pakistan,147,4,20.0,120,7.35,False
+4f9ff37e-c824-5d6a-8a51-b77775fb572c,1,Bangladesh,119,7,20.0,120,5.95,False
+4f9ff37e-c824-5d6a-8a51-b77775fb572c,2,Australia,120,6,16.5,101,7.13,False
+c0769ba5-b751-543a-ad66-5e645eec3065,1,Australia Women,167,8,20.0,120,8.35,False
+c0769ba5-b751-543a-ad66-5e645eec3065,2,Pakistan Women,103,10,18.1,109,5.67,True
+1b53fd4d-3076-5fd4-94b3-8b6a9ff15f6d,1,Sri Lanka,151,4,20.0,120,7.55,False
+1b53fd4d-3076-5fd4-94b3-8b6a9ff15f6d,2,New Zealand,136,10,15.1,91,8.97,True
+2051a8cf-55eb-5f3b-ad04-ed9a6420adc5,1,England,196,7,50.0,300,3.92,False
+2051a8cf-55eb-5f3b-ad04-ed9a6420adc5,2,India,201,1,35.0,210,5.74,False
+c29818ba-3ed1-50c1-ba1e-f7215dfd581d,1,India,303,10,78.0,468,3.88,True
+c29818ba-3ed1-50c1-ba1e-f7215dfd581d,2,England,275,10,132.5,797,2.07,True
+c29818ba-3ed1-50c1-ba1e-f7215dfd581d,3,India,185,10,145.1,871,1.27,True
+c29818ba-3ed1-50c1-ba1e-f7215dfd581d,4,England,217,7,71.5,431,3.02,False
+5213a655-d005-5041-a897-17719a244ca6,1,New Zealand,740,10,96.0,576,7.71,True
+5213a655-d005-5041-a897-17719a244ca6,2,Afghanistan,294,10,149.1,895,1.97,True
+5213a655-d005-5041-a897-17719a244ca6,3,Afghanistan,247,10,71.0,426,3.48,True
+3695f7cc-6e1c-5ea5-97db-aee96a37a6e2,1,Australia,579,10,103.0,618,5.62,True
+3695f7cc-6e1c-5ea5-97db-aee96a37a6e2,2,South Africa,257,10,144.4,868,1.78,True
+3695f7cc-6e1c-5ea5-97db-aee96a37a6e2,3,South Africa,183,10,110.5,665,1.65,True
+d16590f0-c7bc-5db3-aaf7-cfe69e814bc7,1,West Indies,144,10,19.1,115,7.51,True
+d16590f0-c7bc-5db3-aaf7-cfe69e814bc7,2,South Africa,146,1,10.2,62,14.13,False
+bdd818ee-de3d-505d-99b2-09c5298c75cd,1,New Zealand,306,4,50.0,300,6.12,False
+bdd818ee-de3d-505d-99b2-09c5298c75cd,2,Pakistan,228,10,27.5,167,8.19,True
+523c99f2-9d36-54b1-8e63-1cdbf570c96b,1,Australia Women,251,3,20.0,120,12.55,False
+523c99f2-9d36-54b1-8e63-1cdbf570c96b,2,Pakistan Women,171,5,20.0,120,8.55,False
+56138a5a-6089-5873-bffa-7b15119a47b8,1,South Africa,567,10,119.2,716,4.75,True
+56138a5a-6089-5873-bffa-7b15119a47b8,2,Sri Lanka,235,10,71.0,426,3.31,True
+56138a5a-6089-5873-bffa-7b15119a47b8,3,Sri Lanka,217,10,144.3,867,1.5,True
+c1fb1632-076f-5e2b-8165-2c1c4b2a06f3,1,Afghanistan,158,5,20.0,120,7.9,False
+c1fb1632-076f-5e2b-8165-2c1c4b2a06f3,2,Australia,91,10,13.0,78,7.0,True
+91b5f0a0-c7db-5fe2-a3d1-ae1373d9437c,1,Afghanistan,273,10,141.1,847,1.93,True
+91b5f0a0-c7db-5fe2-a3d1-ae1373d9437c,2,England,297,10,104.0,624,2.86,True
+91b5f0a0-c7db-5fe2-a3d1-ae1373d9437c,3,Afghanistan,300,10,131.4,790,2.28,True
+91b5f0a0-c7db-5fe2-a3d1-ae1373d9437c,4,England,280,4,134.4,808,2.08,False
+372611fa-f08a-54d4-b85b-a64d5cd04a4f,1,England Women,312,8,50.0,300,6.24,False
+372611fa-f08a-54d4-b85b-a64d5cd04a4f,2,Australia Women,241,8,50.0,300,4.82,False
+5f86026e-b80d-55e8-8051-e0d8d33e4595,1,Pakistan Women,175,4,20.0,120,8.75,False
+5f86026e-b80d-55e8-8051-e0d8d33e4595,2,Australia Women,151,10,18.5,113,8.02,True
+f0acc971-643a-5fb3-bdf9-bdd3f87f79db,1,South Africa,166,8,20.0,120,8.3,False
+f0acc971-643a-5fb3-bdf9-bdd3f87f79db,2,England,143,10,14.4,88,9.75,True
+a628a4c3-df2f-509d-872d-f20ca8f57332,1,West Indies,406,10,144.5,869,2.8,True
+a628a4c3-df2f-509d-872d-f20ca8f57332,2,New Zealand,285,10,79.2,476,3.59,True
+a628a4c3-df2f-509d-872d-f20ca8f57332,3,West Indies,242,10,115.2,692,2.1,True
+a628a4c3-df2f-509d-872d-f20ca8f57332,4,New Zealand,364,1,127.1,763,2.86,False
+0591b049-1e46-5594-867e-3938c9a2293c,1,England,125,4,20.0,120,6.25,False
+0591b049-1e46-5594-867e-3938c9a2293c,2,South Africa,131,2,13.0,78,10.08,False
+d2aadcee-6074-5eca-bbe7-4396d20218b4,1,Bangladesh,201,4,20.0,120,10.05,False
+d2aadcee-6074-5eca-bbe7-4396d20218b4,2,Pakistan,179,10,18.0,108,9.94,True
+c528c500-ea93-5e2b-aecb-92c07209aba4,1,South Africa,170,3,20.0,120,8.5,False
+c528c500-ea93-5e2b-aecb-92c07209aba4,2,Sri Lanka,161,10,17.3,105,9.2,True
+f2cd05f5-ab14-5b35-ad3a-aa9903c14c57,1,New Zealand,160,6,20.0,120,8.0,False
+f2cd05f5-ab14-5b35-ad3a-aa9903c14c57,2,West Indies,145,10,18.3,111,7.84,True
+f3d6c855-3a2e-571c-86f1-f5a430b14938,1,Pakistan,160,4,20.0,120,8.0,False
+f3d6c855-3a2e-571c-86f1-f5a430b14938,2,Afghanistan,153,10,13.5,83,11.06,True
+1da0893f-163c-5412-85a4-3254dfe78ef0,1,West Indies,303,8,50.0,300,6.06,False
+1da0893f-163c-5412-85a4-3254dfe78ef0,2,Afghanistan,306,5,49.4,298,6.16,False
+77888f70-2820-5dae-83a9-b66a97b2e883,1,Pakistan,188,7,50.0,300,3.76,False
+77888f70-2820-5dae-83a9-b66a97b2e883,2,India,192,4,43.3,261,4.41,False
+53270a72-41b5-5c7c-8cf3-9e3c97078a75,1,New Zealand,175,2,20.0,120,8.75,False
+53270a72-41b5-5c7c-8cf3-9e3c97078a75,2,Bangladesh,118,4,20.0,120,5.9,False
+aae63274-bb04-5481-8860-929c922b7d27,1,Afghanistan,225,10,41.3,249,5.42,True
+aae63274-bb04-5481-8860-929c922b7d27,2,Australia,229,2,42.0,252,5.45,False
+09eb1664-194e-597a-9f56-0bbf0389a064,1,Bangladesh,139,6,50.0,300,2.78,False
+09eb1664-194e-597a-9f56-0bbf0389a064,2,Australia,140,3,44.3,267,3.15,False
+9f1212bd-3fc1-5b2d-9ac6-9bdbff7f55bd,1,India,694,10,78.4,472,8.82,True
+9f1212bd-3fc1-5b2d-9ac6-9bdbff7f55bd,2,Bangladesh,323,10,135.2,812,2.39,True
+9f1212bd-3fc1-5b2d-9ac6-9bdbff7f55bd,3,Bangladesh,272,10,119.5,719,2.27,True
+380906e6-9bfc-540e-82f7-f493610ed663,1,Afghanistan,142,3,20.0,120,7.1,False
+380906e6-9bfc-540e-82f7-f493610ed663,2,Australia,96,10,15.1,91,6.33,True
+0147ab97-03ee-5d85-8755-0e89c7cdb743,1,West Indies,187,10,70.4,424,2.65,True
+0147ab97-03ee-5d85-8755-0e89c7cdb743,2,Sri Lanka,295,10,70.0,420,4.21,True
+0147ab97-03ee-5d85-8755-0e89c7cdb743,3,West Indies,346,10,149.5,899,2.31,True
+0147ab97-03ee-5d85-8755-0e89c7cdb743,4,Sri Lanka,244,2,126.5,761,1.92,False
+49afe0d6-4d30-565d-8ce7-7d052c33898f,1,South Africa,221,9,20.0,120,11.05,False
+49afe0d6-4d30-565d-8ce7-7d052c33898f,2,Sri Lanka,160,10,19.3,117,8.21,True
+6ac95f6e-4f15-58e5-8ca3-e45a86601b96,1,Afghanistan,292,2,50.0,300,5.84,False
+6ac95f6e-4f15-58e5-8ca3-e45a86601b96,2,Bangladesh,255,10,35.1,211,7.25,True
+f515613b-9232-5285-ae0d-b79ef1a792f7,1,Pakistan,191,3,20.0,120,9.55,False
+f515613b-9232-5285-ae0d-b79ef1a792f7,2,Sri Lanka,131,10,12.3,75,10.48,True
+e8472eca-d4ba-505c-8bc1-9cb5cb12795f,1,Pakistan,207,5,20.0,120,10.35,False
+e8472eca-d4ba-505c-8bc1-9cb5cb12795f,2,West Indies,94,10,13.3,81,6.96,True
+65d22b55-abe6-5ce7-a988-1c60f00abe27,1,Afghanistan,158,9,20.0,120,7.9,False
+65d22b55-abe6-5ce7-a988-1c60f00abe27,2,New Zealand,161,8,12.1,73,13.23,False
+bf66aeb9-baaf-5a2a-8523-5c474321e995,1,South Africa,373,10,148.3,891,2.51,True
+bf66aeb9-baaf-5a2a-8523-5c474321e995,2,Sri Lanka,462,10,80.0,480,5.78,True
+bf66aeb9-baaf-5a2a-8523-5c474321e995,3,South Africa,714,10,138.5,833,5.14,True
+bf66aeb9-baaf-5a2a-8523-5c474321e995,4,Sri Lanka,333,10,131.0,786,2.54,True
+3e6015c2-c525-571a-a914-cbc6537d2ffa,1,India Women,265,7,50.0,300,5.3,False
+3e6015c2-c525-571a-a914-cbc6537d2ffa,2,England Women,254,10,42.2,254,6.0,True
+8aaf8e79-1de5-5fcb-b037-f5593ddea738,1,New Zealand,162,6,50.0,300,3.24,False
+8aaf8e79-1de5-5fcb-b037-f5593ddea738,2,Sri Lanka,163,6,38.2,230,4.25,False
+670e30f3-2012-5043-b833-2289889de9f7,1,England,323,3,50.0,300,6.46,False
+670e30f3-2012-5043-b833-2289889de9f7,2,Afghanistan,231,7,50.0,300,4.62,False
+72317c3a-228a-5346-aba5-cc54fd260097,1,West Indies,131,8,20.0,120,6.55,False
+72317c3a-228a-5346-aba5-cc54fd260097,2,Afghanistan,133,2,10.4,64,12.47,False
+0ad05593-4fea-5ad2-aaf3-2c0f68c9af03,1,West Indies,151,8,20.0,120,7.55,False
+0ad05593-4fea-5ad2-aaf3-2c0f68c9af03,2,Bangladesh,153,0,17.0,102,9.0,False
+749d6699-85a0-57da-aafc-b53b68badc95,1,Pakistan,213,5,50.0,300,4.26,False
+749d6699-85a0-57da-aafc-b53b68badc95,2,West Indies,219,7,45.4,274,4.8,False
+b43db0b7-5ac6-52e7-9573-d0f1925d9ccf,1,England Women,178,9,20.0,120,8.9,False
+b43db0b7-5ac6-52e7-9573-d0f1925d9ccf,2,Pakistan Women,128,7,20.0,120,6.4,False
+3cbc9100-ea4f-59a3-acdf-2124acaec8dc,1,Sri Lanka,293,10,121.5,731,2.4,True
+3cbc9100-ea4f-59a3-acdf-2124acaec8dc,2,South Africa,303,10,107.4,646,2.81,True
+3cbc9100-ea4f-59a3-acdf-2124acaec8dc,3,Sri Lanka,417,10,103.5,623,4.02,True
+3cbc9100-ea4f-59a3-acdf-2124acaec8dc,4,South Africa,172,10,79.1,475,2.17,True
+142f395e-4174-5579-97a7-7895803db7c1,1,England,342,9,50.0,300,6.84,False
+142f395e-4174-5579-97a7-7895803db7c1,2,Australia,270,5,50.0,300,5.4,False
+e9d636e7-c9cb-56df-a4e8-4af4454ad278,1,Australia,398,10,132.0,792,3.02,True
+e9d636e7-c9cb-56df-a4e8-4af4454ad278,2,Sri Lanka,237,10,100.1,601,2.37,True
+e9d636e7-c9cb-56df-a4e8-4af4454ad278,3,Australia,179,10,70.4,424,2.53,True
+e9d636e7-c9cb-56df-a4e8-4af4454ad278,4,Sri Lanka,344,1,110.1,661,3.12,False
+04318589-928c-5edb-b45f-40c80c73bda4,1,Afghanistan,184,10,14.3,87,12.69,True
+04318589-928c-5edb-b45f-40c80c73bda4,2,South Africa,188,1,16.4,100,11.28,False
+86d744fc-a384-5c35-85c1-6df9473ee904,1,West Indies,198,7,20.0,120,9.9,False
+86d744fc-a384-5c35-85c1-6df9473ee904,2,India,203,2,15.4,94,12.96,False
+ac85ce11-25db-50ef-9c58-e3ff6a0a1b60,1,England,237,7,50.0,300,4.74,False
+ac85ce11-25db-50ef-9c58-e3ff6a0a1b60,2,India,242,3,38.0,228,6.37,False
+17550e84-91cd-542f-a7b9-509daeab3ecf,1,England,500,10,139.2,836,3.59,True
+17550e84-91cd-542f-a7b9-509daeab3ecf,2,Pakistan,314,10,86.0,516,3.65,True
+17550e84-91cd-542f-a7b9-509daeab3ecf,3,England,220,7,86.2,518,2.55,False
+17550e84-91cd-542f-a7b9-509daeab3ecf,4,Pakistan,180,4,76.2,458,2.36,False
+b4080479-43e0-504f-a1b0-f33e362dbba2,1,Afghanistan,179,2,20.0,120,8.95,False
+b4080479-43e0-504f-a1b0-f33e362dbba2,2,Sri Lanka,183,9,14.2,86,12.77,False
+fc029d11-2506-5a8b-b060-0475196960a3,1,Australia Women,175,4,20.0,120,8.75,False
+fc029d11-2506-5a8b-b060-0475196960a3,2,England Women,106,5,20.0,120,5.3,False
+c7f3cce6-d877-5a12-a8dd-94e93e72ef74,1,Australia,207,10,19.2,116,10.71,True
+c7f3cce6-d877-5a12-a8dd-94e93e72ef74,2,England,202,10,15.5,95,12.76,True
+40eea552-94af-56de-8908-cdc39f8f5c5a,1,Sri Lanka,207,2,20.0,120,10.35,False
+40eea552-94af-56de-8908-cdc39f8f5c5a,2,Australia,165,10,16.1,97,10.21,True
+16f899a2-2955-5aca-9703-69ab89db2787,1,Bangladesh,170,4,20.0,120,8.5,False
+16f899a2-2955-5aca-9703-69ab89db2787,2,West Indies,176,8,18.2,110,9.6,False
+dce50f60-01d8-57de-b405-d5d1470aa984,1,Pakistan,185,10,102.3,615,1.8,True
+dce50f60-01d8-57de-b405-d5d1470aa984,2,Bangladesh,194,10,112.0,672,1.73,True
+dce50f60-01d8-57de-b405-d5d1470aa984,3,Pakistan,272,7,131.1,787,2.07,False
+dce50f60-01d8-57de-b405-d5d1470aa984,4,Bangladesh,180,4,95.5,575,1.88,False
+77ce91a9-e49c-54cd-b230-325955a354b8,1,England,179,10,107.1,643,1.67,True
+77ce91a9-e49c-54cd-b230-325955a354b8,2,West Indies,325,10,116.1,697,2.8,True
+77ce91a9-e49c-54cd-b230-325955a354b8,3,England,218,10,110.0,660,1.98,True
+77ce91a9-e49c-54cd-b230-325955a354b8,4,West Indies,73,4,107.4,646,0.68,False
+506294ad-5107-5fc8-94e7-bbb292c4f42e,1,Sri Lanka,203,5,20.0,120,10.15,False
+506294ad-5107-5fc8-94e7-bbb292c4f42e,2,Bangladesh,133,10,14.3,87,9.17,True
+232168a6-1322-545e-b5f9-907aee08f4a6,1,West Indies,300,10,83.4,502,3.59,True
+232168a6-1322-545e-b5f9-907aee08f4a6,2,South Africa,242,10,112.0,672,2.16,True
+232168a6-1322-545e-b5f9-907aee08f4a6,3,West Indies,203,7,101.4,610,2.0,False
+232168a6-1322-545e-b5f9-907aee08f4a6,4,South Africa,180,4,134.3,807,1.34,False
+b5f28a88-4533-56f3-a7b0-20a848b36169,1,India,165,2,50.0,300,3.3,False
+b5f28a88-4533-56f3-a7b0-20a848b36169,2,Pakistan,171,3,37.3,225,4.56,False
+039aa9c0-df7c-5a66-afee-c8b4390ced2f,1,Australia,298,10,101.3,609,2.94,True
+039aa9c0-df7c-5a66-afee-c8b4390ced2f,2,South Africa,145,10,141.5,851,1.02,True
+039aa9c0-df7c-5a66-afee-c8b4390ced2f,3,Australia,99,10,70.4,424,1.4,True
+039aa9c0-df7c-5a66-afee-c8b4390ced2f,4,South Africa,200,10,93.1,559,2.15,True
+377b8c68-13cf-5ad9-a644-8c1f27eab49f,1,Pakistan,172,4,50.0,300,3.44,False
+377b8c68-13cf-5ad9-a644-8c1f27eab49f,2,India,178,2,44.5,269,3.97,False
+434e6a5c-f947-5a99-ad19-abab8e363302,1,Pakistan Women,98,6,20.0,120,4.9,False
+434e6a5c-f947-5a99-ad19-abab8e363302,2,India Women,104,5,18.2,110,5.67,False
+8d036c11-ad72-547b-be9e-5982ea8bdd96,1,Sri Lanka,317,7,50.0,300,6.34,False
+8d036c11-ad72-547b-be9e-5982ea8bdd96,2,Bangladesh,315,5,50.0,300,6.3,False
+af400295-31bc-535b-b279-9fff34b4397d,1,Pakistan,393,10,133.3,801,2.94,True
+af400295-31bc-535b-b279-9fff34b4397d,2,Australia,254,10,111.0,666,2.29,True
+af400295-31bc-535b-b279-9fff34b4397d,3,Pakistan,238,7,90.3,543,2.63,False
+af400295-31bc-535b-b279-9fff34b4397d,4,Australia,150,4,80.2,482,1.87,False
+d5f32a65-79d8-5547-952f-f5e5347398ee,1,Pakistan,220,6,50.0,300,4.4,False
+d5f32a65-79d8-5547-952f-f5e5347398ee,2,Bangladesh,223,7,26.2,158,8.47,False
+583e73a9-2dad-5506-ac25-7bfb85377711,1,New Zealand,257,5,50.0,300,5.14,False
+583e73a9-2dad-5506-ac25-7bfb85377711,2,Afghanistan,263,6,26.2,158,9.99,False
+bd7f51b3-42e5-5c98-9ad9-ff40f52dcc20,1,Afghanistan,260,3,50.0,300,5.2,False
+bd7f51b3-42e5-5c98-9ad9-ff40f52dcc20,2,Australia,212,10,36.0,216,5.89,True
+313dc25b-9160-59c3-a61a-7a77b855419c,1,Sri Lanka,187,8,20.0,120,9.35,False
+313dc25b-9160-59c3-a61a-7a77b855419c,2,Australia,137,9,20.0,120,6.85,False
+1db5725f-a21a-58f4-bdcd-a28b8e556fce,1,West Indies,312,3,50.0,300,6.24,False
+1db5725f-a21a-58f4-bdcd-a28b8e556fce,2,Bangladesh,301,8,50.0,300,6.02,False
+59920a31-9b25-5a1e-9cde-8044d2100eb3,1,England,208,5,20.0,120,10.4,False
+59920a31-9b25-5a1e-9cde-8044d2100eb3,2,South Africa,138,10,15.3,93,8.9,True
+9050eb5e-c2e5-5184-9d77-7060ad646f66,1,South Africa,156,4,20.0,120,7.8,False
+9050eb5e-c2e5-5184-9d77-7060ad646f66,2,England,143,10,11.4,70,12.26,True
+d51b1e00-6fed-5b71-8577-2350d23ab02b,1,Australia Women,187,3,20.0,120,9.35,False
+d51b1e00-6fed-5b71-8577-2350d23ab02b,2,Pakistan Women,128,10,19.4,118,6.51,True
+6dc0ef35-163b-5005-b1c3-0360a608218c,1,Pakistan,146,4,20.0,120,7.3,False
+6dc0ef35-163b-5005-b1c3-0360a608218c,2,Australia,150,1,11.1,67,13.43,False
+db2c636d-b311-5e42-b9f4-183d73973c39,1,Australia Women,127,8,20.0,120,6.35,False
+db2c636d-b311-5e42-b9f4-183d73973c39,2,Pakistan Women,128,8,19.3,117,6.56,False
+072d7008-fc37-5362-9753-8c9b9b9f3e4b,1,South Africa,374,10,108.2,650,3.45,True
+072d7008-fc37-5362-9753-8c9b9b9f3e4b,2,India,251,10,123.3,741,2.03,True
+072d7008-fc37-5362-9753-8c9b9b9f3e4b,3,South Africa,268,10,93.5,563,2.86,True
+072d7008-fc37-5362-9753-8c9b9b9f3e4b,4,India,394,9,117.0,702,3.37,False
+0fa64e09-29b5-5e89-b48c-7503c602d36c,1,South Africa,348,3,50.0,300,6.96,False
+0fa64e09-29b5-5e89-b48c-7503c602d36c,2,Pakistan,345,9,50.0,300,6.9,False
+06a3df8c-a2eb-561f-8899-156c14b817b2,1,India Women,304,5,50.0,300,6.08,False
+06a3df8c-a2eb-561f-8899-156c14b817b2,2,Pakistan Women,308,3,42.3,255,7.25,False
+461c67db-9301-5590-b0f2-4c3ffe01c518,1,Afghanistan,210,10,34.3,207,6.09,True
+461c67db-9301-5590-b0f2-4c3ffe01c518,2,Bangladesh,146,10,28.4,172,5.09,True
+465f9ef5-0533-5231-a7c8-fa78af386cc4,1,India,169,9,20.0,120,8.45,False
+465f9ef5-0533-5231-a7c8-fa78af386cc4,2,Afghanistan,171,1,14.5,89,11.53,False
+e7549207-92b1-580a-8e20-2a04103d1b68,1,Afghanistan,138,9,20.0,120,6.9,False
+e7549207-92b1-580a-8e20-2a04103d1b68,2,Sri Lanka,121,10,15.5,95,7.64,True
+381bfb65-4ef3-57c0-9176-11ed468f4521,1,New Zealand,161,4,20.0,120,8.05,False
+381bfb65-4ef3-57c0-9176-11ed468f4521,2,Pakistan,160,9,20.0,120,8.0,False
+e6de27f0-cdef-54d1-8709-15f1ba857afb,1,Pakistan,637,10,109.0,654,5.84,True
+e6de27f0-cdef-54d1-8709-15f1ba857afb,2,Sri Lanka,406,10,147.3,885,2.75,True
+e6de27f0-cdef-54d1-8709-15f1ba857afb,3,Sri Lanka,158,10,144.0,864,1.1,True
+679e114e-4ade-59d7-b16c-f47959f4441c,1,India,228,7,50.0,300,4.56,False
+679e114e-4ade-59d7-b16c-f47959f4441c,2,South Africa,233,0,40.4,244,5.73,False
+87bf68e5-dfa2-59ac-a19c-106bd82f6a5a,1,New Zealand,200,2,20.0,120,10.0,False
+87bf68e5-dfa2-59ac-a19c-106bd82f6a5a,2,Afghanistan,160,4,20.0,120,8.0,False
+3ddd143f-4f42-54f4-b462-85aacd40293f,1,Afghanistan,311,5,50.0,300,6.22,False
+3ddd143f-4f42-54f4-b462-85aacd40293f,2,Australia,251,4,50.0,300,5.02,False
+49e214f9-1522-506f-b73f-b22058671179,1,West Indies,159,7,20.0,120,7.95,False
+49e214f9-1522-506f-b73f-b22058671179,2,Bangladesh,162,0,13.1,79,12.3,False
+86f81f2a-9024-527c-a50f-d6e132e2e009,1,India Women,268,7,50.0,300,5.36,False
+86f81f2a-9024-527c-a50f-d6e132e2e009,2,Pakistan Women,237,10,44.2,266,5.35,True
+15161e7e-fa3a-5465-a41d-a491ce4b652b,1,Bangladesh,469,10,139.2,836,3.37,True
+15161e7e-fa3a-5465-a41d-a491ce4b652b,2,New Zealand,244,10,106.3,639,2.29,True
+15161e7e-fa3a-5465-a41d-a491ce4b652b,3,Bangladesh,144,7,85.0,510,1.69,False
+15161e7e-fa3a-5465-a41d-a491ce4b652b,4,New Zealand,180,4,137.1,823,1.31,False
+5664e1aa-6af1-57d8-bebe-d943658dd736,1,England,221,10,112.5,677,1.96,True
+5664e1aa-6af1-57d8-bebe-d943658dd736,2,Australia,446,10,75.4,454,5.89,True
+5664e1aa-6af1-57d8-bebe-d943658dd736,3,England,648,10,113.4,682,5.7,True
+5664e1aa-6af1-57d8-bebe-d943658dd736,4,Australia,287,10,77.5,467,3.69,True
+5646b3ea-ea5c-5a95-9f81-41867ca4a534,1,Pakistan,146,7,20.0,120,7.3,False
+5646b3ea-ea5c-5a95-9f81-41867ca4a534,2,Australia,150,3,19.1,115,7.83,False
+6fde48ef-8e32-57ca-8a4f-31303eb85b38,1,Afghanistan,465,10,138.3,831,3.36,True
+6fde48ef-8e32-57ca-8a4f-31303eb85b38,2,Pakistan,292,10,90.0,540,3.24,True
+6fde48ef-8e32-57ca-8a4f-31303eb85b38,3,Afghanistan,236,7,83.5,503,2.82,False
+6fde48ef-8e32-57ca-8a4f-31303eb85b38,4,Pakistan,176,4,146.1,877,1.2,False
+c3de4906-dd8a-5883-8a59-d04a94cad6fa,1,New Zealand,330,2,50.0,300,6.6,False
+c3de4906-dd8a-5883-8a59-d04a94cad6fa,2,Bangladesh,277,10,34.4,208,7.99,True
+21d72403-50bd-531c-b13a-58a3af759632,1,Bangladesh,175,4,20.0,120,8.75,False
+21d72403-50bd-531c-b13a-58a3af759632,2,Australia,180,3,17.2,104,10.38,False
+65303198-f757-5f45-9040-1e9e0b4de6e1,1,Afghanistan,144,5,20.0,120,7.2,False
+65303198-f757-5f45-9040-1e9e0b4de6e1,2,Sri Lanka,138,7,20.0,120,6.9,False
+2bfdadc2-c90c-50f2-8c0e-56f51efff202,1,Afghanistan,293,6,50.0,300,5.86,False
+2bfdadc2-c90c-50f2-8c0e-56f51efff202,2,India,223,9,50.0,300,4.46,False
+bd9bf866-c7b6-541a-a225-95e3febb774a,1,Pakistan,216,10,75.5,455,2.85,True
+bd9bf866-c7b6-541a-a225-95e3febb774a,2,Australia,343,10,74.4,448,4.59,True
+bd9bf866-c7b6-541a-a225-95e3febb774a,3,Pakistan,161,10,143.2,860,1.12,True
+bd9bf866-c7b6-541a-a225-95e3febb774a,4,Australia,35,0,94.4,568,0.37,False
+a78bfa55-2f06-554d-92e9-f9795d6af4aa,1,Australia,226,6,50.0,300,4.52,False
+a78bfa55-2f06-554d-92e9-f9795d6af4aa,2,Sri Lanka,207,3,50.0,300,4.14,False
+ef8ba8ca-27da-5e93-baab-e6f70a1a321f,1,India Women,266,5,50.0,300,5.32,False
+ef8ba8ca-27da-5e93-baab-e6f70a1a321f,2,Pakistan Women,270,9,43.1,259,6.25,False
+1025f6dc-282a-54b1-9350-6f599dab1164,1,West Indies,183,3,20.0,120,9.15,False
+1025f6dc-282a-54b1-9350-6f599dab1164,2,Pakistan,138,10,10.2,62,13.35,True
+2b1cee03-b3ad-5c15-9c63-1202c06efa0b,1,South Africa,158,4,20.0,120,7.9,False
+2b1cee03-b3ad-5c15-9c63-1202c06efa0b,2,New Zealand,136,9,20.0,120,6.8,False
+b5109b3e-7272-565e-b0eb-22b5f95e8da3,1,England Women,194,5,20.0,120,9.7,False
+b5109b3e-7272-565e-b0eb-22b5f95e8da3,2,India Women,177,10,15.5,95,11.18,True
+ba06ed3a-3cbc-59dd-9861-312a003f5702,1,Australia,156,4,20.0,120,7.8,False
+ba06ed3a-3cbc-59dd-9861-312a003f5702,2,New Zealand,161,7,18.5,113,8.55,False
+b58a1c8b-d656-5c38-9b57-475be0e5cb4e,1,Australia Women,113,6,20.0,120,5.65,False
+b58a1c8b-d656-5c38-9b57-475be0e5cb4e,2,India Women,114,4,19.1,115,5.95,False
+f13fd9b5-cae8-579b-8659-5e8d001ea320,1,Bangladesh,204,9,50.0,300,4.08,False
+f13fd9b5-cae8-579b-8659-5e8d001ea320,2,West Indies,208,2,45.3,273,4.57,False
+c93341ff-cb45-5c67-8f37-8b850a9a655d,1,Sri Lanka,128,2,20.0,120,6.4,False
+c93341ff-cb45-5c67-8f37-8b850a9a655d,2,South Africa,129,2,15.1,91,8.51,False
+48e9b062-d579-57c0-b5bb-0b8c24784a7d,1,Afghanistan,133,10,18.2,110,7.25,True
+48e9b062-d579-57c0-b5bb-0b8c24784a7d,2,India,139,9,19.1,115,7.25,False
+c531349b-29e3-5c64-9f27-fac591b3c8f8,1,Pakistan,429,10,78.0,468,5.5,True
+c531349b-29e3-5c64-9f27-fac591b3c8f8,2,Sri Lanka,294,10,82.1,493,3.58,True
+c531349b-29e3-5c64-9f27-fac591b3c8f8,3,Pakistan,288,10,137.3,825,2.09,True
+c531349b-29e3-5c64-9f27-fac591b3c8f8,4,Sri Lanka,424,2,72.3,435,5.85,False
+60fd9d5d-2532-5052-b02e-8f056f9148b8,1,Afghanistan,348,6,50.0,300,6.96,False
+60fd9d5d-2532-5052-b02e-8f056f9148b8,2,South Africa,274,10,37.0,222,7.41,True
+a15754c4-e8b9-5c4b-8cc9-1733a183daca,1,Australia,642,10,75.0,450,8.56,True
+a15754c4-e8b9-5c4b-8cc9-1733a183daca,2,India,224,10,144.4,868,1.55,True
+a15754c4-e8b9-5c4b-8cc9-1733a183daca,3,India,335,10,144.3,867,2.32,True
+7e5a192f-2a2d-567b-a017-9c27222a0be6,1,Pakistan Women,168,10,15.4,94,10.72,True
+7e5a192f-2a2d-567b-a017-9c27222a0be6,2,England Women,132,7,20.0,120,6.6,False
+a27efce8-7d45-5fc4-b1dd-d61b6c3dd90d,1,Afghanistan,288,4,50.0,300,5.76,False
+a27efce8-7d45-5fc4-b1dd-d61b6c3dd90d,2,India,234,10,34.2,206,6.82,True
+4573d440-e9b3-5733-996a-05da89c1211c,1,England,72,8,20.0,120,3.6,False
+4573d440-e9b3-5733-996a-05da89c1211c,2,South Africa,76,8,17.0,102,4.47,False
+473376b5-a33a-55c6-a840-f8b361663bf1,1,Pakistan Women,92,4,20.0,120,4.6,False
+473376b5-a33a-55c6-a840-f8b361663bf1,2,India Women,95,9,14.3,87,6.55,False
+6b9639cd-d70c-5f7d-ae65-34af791ae85a,1,Pakistan,247,7,50.0,300,4.94,False
+6b9639cd-d70c-5f7d-ae65-34af791ae85a,2,England,252,3,28.2,170,8.89,False
+f45c6238-a211-571a-90d1-e81969c44323,1,Afghanistan,164,7,20.0,120,8.2,False
+f45c6238-a211-571a-90d1-e81969c44323,2,Bangladesh,170,2,19.0,114,8.95,False
+db994654-a2cd-55c2-b21e-4e67a9e46cec,1,New Zealand,143,6,20.0,120,7.15,False
+db994654-a2cd-55c2-b21e-4e67a9e46cec,2,Afghanistan,146,8,11.2,68,12.88,False
+8227b2d2-3ea0-51aa-aedc-34394f085ced,1,West Indies,691,10,136.2,818,5.07,True
+8227b2d2-3ea0-51aa-aedc-34394f085ced,2,Sri Lanka,273,10,111.2,668,2.45,True
+8227b2d2-3ea0-51aa-aedc-34394f085ced,3,Sri Lanka,284,10,142.0,852,2.0,True
+eaf7d452-fb6d-5304-bd34-9d9c7717557f,1,India Women,273,6,50.0,300,5.46,False
+eaf7d452-fb6d-5304-bd34-9d9c7717557f,2,Pakistan Women,256,10,40.1,241,6.37,True
+ec6c5ec4-9a32-51c2-a57e-f43d24c6f418,1,West Indies,353,10,140.4,844,2.51,True
+ec6c5ec4-9a32-51c2-a57e-f43d24c6f418,2,Australia,274,10,143.2,860,1.91,True
+ec6c5ec4-9a32-51c2-a57e-f43d24c6f418,3,West Indies,176,10,135.4,814,1.3,True
+ec6c5ec4-9a32-51c2-a57e-f43d24c6f418,4,Australia,258,8,115.1,691,2.24,False
+a5764570-6819-5faa-9d46-880d1af601c3,1,South Africa,266,7,50.0,300,5.32,False
+a5764570-6819-5faa-9d46-880d1af601c3,2,India,270,7,29.0,174,9.31,False
+11835145-666d-5c19-84ff-ca1d886ea7e2,1,Australia,185,2,50.0,300,3.7,False
+11835145-666d-5c19-84ff-ca1d886ea7e2,2,England,190,6,25.0,150,7.6,False
+1dd7019f-ff67-5bd5-99ce-2b3cd5343cc9,1,India,499,10,128.4,772,3.88,True
+1dd7019f-ff67-5bd5-99ce-2b3cd5343cc9,2,West Indies,206,10,77.4,466,2.65,True
+1dd7019f-ff67-5bd5-99ce-2b3cd5343cc9,3,India,284,7,75.3,453,3.76,False
+1dd7019f-ff67-5bd5-99ce-2b3cd5343cc9,4,West Indies,180,4,101.1,607,1.78,False
+aad3c182-acd3-5c22-9567-f54ddc3349ab,1,Afghanistan,151,6,20.0,120,7.55,False
+aad3c182-acd3-5c22-9567-f54ddc3349ab,2,South Africa,100,6,20.0,120,5.0,False
+cd6cb0b2-c2ab-5b67-b4c5-4f89c48eb4b9,1,Sri Lanka,480,10,99.0,594,4.85,True
+cd6cb0b2-c2ab-5b67-b4c5-4f89c48eb4b9,2,Afghanistan,299,10,115.4,694,2.59,True
+cd6cb0b2-c2ab-5b67-b4c5-4f89c48eb4b9,3,Sri Lanka,74,10,88.4,532,0.83,True
+cd6cb0b2-c2ab-5b67-b4c5-4f89c48eb4b9,4,Afghanistan,259,6,129.4,778,2.0,False
+73ba2b3f-1790-5702-92ae-9faf3f824ca3,1,Australia Women,216,8,50.0,300,4.32,False
+73ba2b3f-1790-5702-92ae-9faf3f824ca3,2,England Women,219,8,40.4,244,5.39,False
+22ca9691-37c0-5758-83f4-d7584d5045f7,1,Afghanistan,214,10,143.3,861,1.49,True
+22ca9691-37c0-5758-83f4-d7584d5045f7,2,Australia,302,10,111.3,669,2.71,True
+22ca9691-37c0-5758-83f4-d7584d5045f7,3,Afghanistan,258,7,139.5,839,1.85,False
+22ca9691-37c0-5758-83f4-d7584d5045f7,4,Australia,180,4,78.3,471,2.29,False
+f20c4c52-5a83-5431-925b-c9b2122658ac,1,Afghanistan,570,10,126.1,757,4.52,True
+f20c4c52-5a83-5431-925b-c9b2122658ac,2,Pakistan,133,10,133.3,801,1.0,True
+f20c4c52-5a83-5431-925b-c9b2122658ac,3,Pakistan,279,10,88.4,532,3.15,True
+58a65480-5141-51ab-b075-cf179dbf5774,1,Afghanistan,205,10,138.2,830,1.48,True
+58a65480-5141-51ab-b075-cf179dbf5774,2,South Africa,299,10,139.3,837,2.14,True
+58a65480-5141-51ab-b075-cf179dbf5774,3,Afghanistan,545,10,114.1,685,4.77,True
+58a65480-5141-51ab-b075-cf179dbf5774,4,South Africa,374,10,97.0,582,3.86,True
+e59f2572-ec32-52a0-8274-0d20287f8b86,1,West Indies,271,2,50.0,300,5.42,False
+e59f2572-ec32-52a0-8274-0d20287f8b86,2,New Zealand,277,2,49.1,295,5.63,False
+ce6c94d9-3c40-56e4-a157-ffeaaa95ea9f,1,Afghanistan,121,10,15.1,91,7.98,True
+ce6c94d9-3c40-56e4-a157-ffeaaa95ea9f,2,Bangladesh,123,1,18.2,110,6.71,False
+411a98d5-3dff-5f33-9458-6b442eb406f0,1,Sri Lanka,304,10,46.5,281,6.49,True
+411a98d5-3dff-5f33-9458-6b442eb406f0,2,New Zealand,307,7,44.2,266,6.92,False
+2d5a2df3-9457-54da-b159-a2af624adf75,1,England Women,171,4,20.0,120,8.55,False
+2d5a2df3-9457-54da-b159-a2af624adf75,2,Australia Women,174,2,11.0,66,15.82,False
+d5e84ab3-0457-551d-a607-fdea91ec5f2d,1,Sri Lanka,210,5,20.0,120,10.5,False
+d5e84ab3-0457-551d-a607-fdea91ec5f2d,2,India,117,7,20.0,120,5.85,False
+9b449f79-aad1-5a11-8529-dbfe0fa3ed6b,1,England,190,10,13.1,79,14.43,True
+9b449f79-aad1-5a11-8529-dbfe0fa3ed6b,2,Bangladesh,187,4,20.0,120,9.35,False
+6f8a408d-f7f4-52e5-94fd-f186a72664bc,1,Australia,327,6,50.0,300,6.54,False
+6f8a408d-f7f4-52e5-94fd-f186a72664bc,2,Sri Lanka,301,10,32.0,192,9.41,True
+1040a371-e7cc-520d-8571-181895b8c3ad,1,India,224,9,50.0,300,4.48,False
+1040a371-e7cc-520d-8571-181895b8c3ad,2,Sri Lanka,229,7,31.2,188,7.31,False
+8dcfb510-51e9-5169-978a-def8c87c499f,1,West Indies,183,3,20.0,120,9.15,False
+8dcfb510-51e9-5169-978a-def8c87c499f,2,England,187,1,18.2,110,10.2,False
+33c93db3-40ce-5f94-95fa-9da69969e822,1,West Indies,830,10,147.2,884,5.63,True
+33c93db3-40ce-5f94-95fa-9da69969e822,2,South Africa,424,10,78.3,471,5.4,True
+33c93db3-40ce-5f94-95fa-9da69969e822,3,South Africa,235,10,140.2,842,1.67,True
+a899efe1-5b9f-5d02-aace-09e182763547,1,England,296,10,128.2,770,2.31,True
+a899efe1-5b9f-5d02-aace-09e182763547,2,Afghanistan,459,10,77.1,463,5.95,True
+a899efe1-5b9f-5d02-aace-09e182763547,3,England,536,10,130.0,780,4.12,True
+a899efe1-5b9f-5d02-aace-09e182763547,4,Afghanistan,200,10,117.2,704,1.7,True
+4de10d5b-8a12-5035-8c4c-90450c6567b3,1,Pakistan Women,305,8,50.0,300,6.1,False
+4de10d5b-8a12-5035-8c4c-90450c6567b3,2,England Women,227,10,26.0,156,8.73,True
+77d53966-71b7-55aa-a173-3e57d9c8fe87,1,India Women,255,4,50.0,300,5.1,False
+77d53966-71b7-55aa-a173-3e57d9c8fe87,2,Australia Women,235,7,50.0,300,4.7,False
+3a0f3b99-1d69-5d08-8e03-33fe57e8828d,1,Afghanistan,309,8,50.0,300,6.18,False
+3a0f3b99-1d69-5d08-8e03-33fe57e8828d,2,West Indies,313,4,29.3,177,10.61,False
+e11c195a-e358-5d24-a584-f301d809c174,1,Bangladesh,676,10,86.5,521,7.79,True
+e11c195a-e358-5d24-a584-f301d809c174,2,Afghanistan,252,10,105.3,633,2.39,True
+e11c195a-e358-5d24-a584-f301d809c174,3,Afghanistan,184,10,122.3,735,1.5,True
+eabd7b69-d3d1-522e-8f0c-e257ffa7cb84,1,Bangladesh,304,3,50.0,300,6.08,False
+eabd7b69-d3d1-522e-8f0c-e257ffa7cb84,2,South Africa,289,10,37.0,222,7.81,True
+35472e9d-69c7-59ce-91a4-404f89e254fa,1,India Women,109,3,20.0,120,5.45,False
+35472e9d-69c7-59ce-91a4-404f89e254fa,2,England Women,114,3,13.2,80,8.55,False
+afe694bc-fc8a-5f44-aae8-3727e616e8bf,1,South Africa,698,10,111.1,667,6.28,True
+afe694bc-fc8a-5f44-aae8-3727e616e8bf,2,Pakistan,308,10,96.1,577,3.2,True
+afe694bc-fc8a-5f44-aae8-3727e616e8bf,3,Pakistan,181,10,122.1,733,1.48,True
+9619d511-bde2-5d62-8aed-e3411205307a,1,Sri Lanka,451,10,109.5,659,4.11,True
+9619d511-bde2-5d62-8aed-e3411205307a,2,South Africa,317,10,92.5,557,3.41,True
+9619d511-bde2-5d62-8aed-e3411205307a,3,Sri Lanka,94,10,103.1,619,0.91,True
+9619d511-bde2-5d62-8aed-e3411205307a,4,South Africa,232,0,98.3,591,2.36,False
+d36a415e-ecb0-5e39-9d42-00cc29589d45,1,India,152,4,20.0,120,7.6,False
+d36a415e-ecb0-5e39-9d42-00cc29589d45,2,Australia,153,5,11.3,69,13.3,False
+6b98a6f2-ff27-59cb-b15d-0dfd242ab58a,1,Pakistan Women,184,4,20.0,120,9.2,False
+6b98a6f2-ff27-59cb-b15d-0dfd242ab58a,2,India Women,174,3,20.0,120,8.7,False
+0f4e941b-6816-53a2-b343-43ab53fb5761,1,England Women,282,8,50.0,300,5.64,False
+0f4e941b-6816-53a2-b343-43ab53fb5761,2,Pakistan Women,285,9,35.0,210,8.14,False
+e9d48cd9-bc91-580c-aa5e-8f72acf74e54,1,New Zealand,354,5,50.0,300,7.08,False
+e9d48cd9-bc91-580c-aa5e-8f72acf74e54,2,Sri Lanka,243,10,45.5,275,5.3,True
+7e819392-fdcc-58aa-9982-65d633a530c1,1,Afghanistan,201,5,20.0,120,10.05,False
+7e819392-fdcc-58aa-9982-65d633a530c1,2,Australia,150,10,17.2,104,8.65,True
+710f494c-dbb9-5362-a3c6-7da30928f8ca,1,New Zealand,365,10,110.1,661,3.31,True
+710f494c-dbb9-5362-a3c6-7da30928f8ca,2,West Indies,117,10,145.2,872,0.81,True
+710f494c-dbb9-5362-a3c6-7da30928f8ca,3,New Zealand,310,7,137.2,824,2.26,False
+710f494c-dbb9-5362-a3c6-7da30928f8ca,4,West Indies,180,4,105.3,633,1.71,False
+54f82c2e-00d1-59fe-b264-5be9c7341750,1,India Women,300,2,50.0,300,6.0,False
+54f82c2e-00d1-59fe-b264-5be9c7341750,2,Australia Women,302,9,38.1,229,7.91,False
+5ac0e4eb-e340-5916-9359-5ac5254cfc35,1,Australia,218,3,20.0,120,10.9,False
+5ac0e4eb-e340-5916-9359-5ac5254cfc35,2,Bangladesh,121,10,14.0,84,8.64,True
+3c1c075a-25ad-5655-afc9-1750866ca807,1,Sri Lanka,314,10,110.0,660,2.85,True
+3c1c075a-25ad-5655-afc9-1750866ca807,2,South Africa,127,10,137.3,825,0.92,True
+3c1c075a-25ad-5655-afc9-1750866ca807,3,Sri Lanka,317,10,108.3,651,2.92,True
+3c1c075a-25ad-5655-afc9-1750866ca807,4,South Africa,507,2,126.3,759,4.01,False
+16567eb6-957c-5125-a2e8-c08247f20c08,1,England,143,9,20.0,120,7.15,False
+16567eb6-957c-5125-a2e8-c08247f20c08,2,Pakistan,144,3,15.4,94,9.19,False
+f1263572-734d-54b3-9808-be7ca8163826,1,New Zealand,324,10,107.5,647,3.0,True
+f1263572-734d-54b3-9808-be7ca8163826,2,Pakistan,243,10,113.2,680,2.14,True
+f1263572-734d-54b3-9808-be7ca8163826,3,New Zealand,229,7,122.4,736,1.87,False
+f1263572-734d-54b3-9808-be7ca8163826,4,Pakistan,180,4,104.2,626,1.73,False
+6ac305c6-1037-5b68-a03d-3c6df8eb60f7,1,West Indies,178,2,20.0,120,8.9,False
+6ac305c6-1037-5b68-a03d-3c6df8eb60f7,2,Australia,149,10,17.3,105,8.51,True
+ec984a8a-9b71-506a-bbf4-7c864c5f5d99,1,Sri Lanka,187,6,20.0,120,9.35,False
+ec984a8a-9b71-506a-bbf4-7c864c5f5d99,2,Australia,134,10,11.1,67,12.0,True
+572c2232-4f6b-5ee3-8d0f-c536f281bbe2,1,West Indies,172,5,20.0,120,8.6,False
+572c2232-4f6b-5ee3-8d0f-c536f281bbe2,2,Pakistan,178,7,17.0,102,10.47,False
+468376a1-db0a-5096-9909-e60e5f880937,1,England,160,3,20.0,120,8.0,False
+468376a1-db0a-5096-9909-e60e5f880937,2,West Indies,144,10,13.0,78,11.08,True
+30b846cd-a9ad-5e45-8d5d-c6094efd8e82,1,New Zealand,205,6,20.0,120,10.25,False
+30b846cd-a9ad-5e45-8d5d-c6094efd8e82,2,Pakistan,170,10,12.3,75,13.6,True
+758d51a1-9f13-5386-ac66-d28076bb9294,1,Australia,85,3,20.0,120,4.25,False
+758d51a1-9f13-5386-ac66-d28076bb9294,2,India,86,1,14.0,84,6.14,False
+9dfa7839-4f3e-5bcd-864b-085a04632792,1,India,152,8,20.0,120,7.6,False
+9dfa7839-4f3e-5bcd-864b-085a04632792,2,England,153,7,13.0,78,11.77,False
+678f8f3b-4142-5708-83f3-975618ef4625,1,New Zealand,88,9,20.0,120,4.4,False
+678f8f3b-4142-5708-83f3-975618ef4625,2,Bangladesh,89,2,16.1,97,5.51,False
+2ff5561e-4708-55c5-9cfd-b99106291b40,1,Sri Lanka,318,10,31.1,187,10.2,True
+2ff5561e-4708-55c5-9cfd-b99106291b40,2,India,191,10,35.1,211,5.43,True
+e942daaf-cb5d-56c8-934c-0b8297657f67,1,New Zealand,273,10,33.2,200,8.19,True
+e942daaf-cb5d-56c8-934c-0b8297657f67,2,South Africa,275,5,45.0,270,6.11,False
+f574c7ae-133a-5955-a627-951d485252cd,1,West Indies,158,8,20.0,120,7.9,False
+f574c7ae-133a-5955-a627-951d485252cd,2,South Africa,136,10,14.3,87,9.38,True
+e8904b40-b2d8-5bf5-b469-8118cb8057da,1,Sri Lanka,255,10,79.2,476,3.21,True
+e8904b40-b2d8-5bf5-b469-8118cb8057da,2,Pakistan,364,10,103.4,622,3.51,True
+e8904b40-b2d8-5bf5-b469-8118cb8057da,3,Sri Lanka,291,10,108.5,653,2.67,True
+e8904b40-b2d8-5bf5-b469-8118cb8057da,4,Pakistan,184,9,129.4,778,1.42,False
+92c8a764-6168-5676-8177-075b2ad288b7,1,Bangladesh,170,3,20.0,120,8.5,False
+92c8a764-6168-5676-8177-075b2ad288b7,2,Afghanistan,151,10,14.0,84,10.79,True
+cc6398cb-95fa-5720-9a3c-088b30b827aa,1,Pakistan,174,4,20.0,120,8.7,False
+cc6398cb-95fa-5720-9a3c-088b30b827aa,2,New Zealand,130,10,18.5,113,6.9,True
+fab4d5a3-6d5e-517a-9ec7-951008578f4c,1,England Women,119,9,20.0,120,5.95,False
+fab4d5a3-6d5e-517a-9ec7-951008578f4c,2,Pakistan Women,121,3,12.3,75,9.68,False
+f0b39244-6905-5ebf-aebc-05bf5926f52b,1,New Zealand,171,4,20.0,120,8.55,False
+f0b39244-6905-5ebf-aebc-05bf5926f52b,2,England,168,9,20.0,120,8.4,False
+9ece9294-cda3-53e3-8a51-50551dbd4a52,1,Australia,347,10,111.2,668,3.12,True
+9ece9294-cda3-53e3-8a51-50551dbd4a52,2,West Indies,288,10,126.5,761,2.27,True
+9ece9294-cda3-53e3-8a51-50551dbd4a52,3,Australia,126,10,113.4,682,1.11,True
+9ece9294-cda3-53e3-8a51-50551dbd4a52,4,West Indies,191,3,117.5,707,1.62,False
+6eb1f913-0ac5-5802-a7e0-94bf25c55f67,1,New Zealand,390,10,45.3,273,8.57,True
+6eb1f913-0ac5-5802-a7e0-94bf25c55f67,2,Bangladesh,231,10,37.2,224,6.19,True
+57ca69d3-146f-573d-abc1-a29f52254224,1,Sri Lanka,260,2,50.0,300,5.2,False
+57ca69d3-146f-573d-abc1-a29f52254224,2,India,263,4,31.0,186,8.48,False
+9bf1f2e5-a251-5283-8efc-1a36ef19e167,1,Afghanistan,182,8,20.0,120,9.1,False
+9bf1f2e5-a251-5283-8efc-1a36ef19e167,2,England,156,7,20.0,120,7.8,False
+897e5192-7a5e-5d3d-a710-918e691cd2d7,1,West Indies,264,5,50.0,300,5.28,False
+897e5192-7a5e-5d3d-a710-918e691cd2d7,2,South Africa,148,10,25.2,152,5.84,True
+cb7a25a5-99a5-576b-850d-2860a67a8e60,1,Australia,284,10,124.5,749,2.28,True
+cb7a25a5-99a5-576b-850d-2860a67a8e60,2,Sri Lanka,348,10,84.4,508,4.11,True
+cb7a25a5-99a5-576b-850d-2860a67a8e60,3,Australia,256,7,131.0,786,1.95,False
+cb7a25a5-99a5-576b-850d-2860a67a8e60,4,Sri Lanka,180,4,140.4,844,1.28,False
+6f8cc3c4-cbf0-56d1-8edc-3f81454a1b93,1,India Women,177,6,20.0,120,8.85,False
+6f8cc3c4-cbf0-56d1-8edc-3f81454a1b93,2,Pakistan Women,103,9,20.0,120,5.15,False
+37fef7bc-d0c3-5bcc-8168-061c77a88cba,1,Sri Lanka,409,10,119.0,714,3.44,True
+37fef7bc-d0c3-5bcc-8168-061c77a88cba,2,Pakistan,322,10,129.5,779,2.48,True
+37fef7bc-d0c3-5bcc-8168-061c77a88cba,3,Pakistan,60,10,130.1,781,0.46,True
+f6279920-2268-51a5-b1c1-ad56b822706b,1,Australia,137,2,20.0,120,6.85,False
+f6279920-2268-51a5-b1c1-ad56b822706b,2,Sri Lanka,139,3,10.1,61,13.67,False
+3aed3f51-4e43-5411-858f-a72afcb520cb,1,West Indies,128,8,20.0,120,6.4,False
+3aed3f51-4e43-5411-858f-a72afcb520cb,2,India,132,9,15.2,92,8.61,False
+fb703cf9-3385-5208-901c-e705185d2053,1,Pakistan Women,261,9,50.0,300,5.22,False
+fb703cf9-3385-5208-901c-e705185d2053,2,England Women,258,9,50.0,300,5.16,False
+a7b27014-6753-523e-b85d-8cb826cbfd9a,1,Australia,248,9,50.0,300,4.96,False
+a7b27014-6753-523e-b85d-8cb826cbfd9a,2,England,252,8,31.2,188,8.04,False
+346d2acd-6511-5003-bde6-326e89bce852,1,Sri Lanka,210,10,92.3,555,2.27,True
+346d2acd-6511-5003-bde6-326e89bce852,2,India,302,10,135.5,815,2.22,True
+346d2acd-6511-5003-bde6-326e89bce852,3,Sri Lanka,231,10,124.4,748,1.85,True
+346d2acd-6511-5003-bde6-326e89bce852,4,India,140,4,110.1,661,1.27,False
+09d6227c-8322-55e9-96dc-3b90a5706a8f,1,South Africa,233,10,145.5,875,1.6,True
+09d6227c-8322-55e9-96dc-3b90a5706a8f,2,Sri Lanka,219,10,141.1,847,1.55,True
+09d6227c-8322-55e9-96dc-3b90a5706a8f,3,South Africa,276,7,117.4,706,2.35,False
+09d6227c-8322-55e9-96dc-3b90a5706a8f,4,Sri Lanka,180,4,147.0,882,1.22,False
+dea4e927-c993-5104-bf57-3da822e9d57d,1,West Indies,192,10,13.0,78,14.77,True
+dea4e927-c993-5104-bf57-3da822e9d57d,2,Australia,178,10,10.3,63,16.95,True
+2c190687-8bc8-5670-951b-b512fe59ae34,1,West Indies,299,3,50.0,300,5.98,False
+2c190687-8bc8-5670-951b-b512fe59ae34,2,New Zealand,305,7,25.1,151,12.12,False
+aa30770f-b424-501b-8dfb-31f1494adfc3,1,West Indies,262,9,50.0,300,5.24,False
+aa30770f-b424-501b-8dfb-31f1494adfc3,2,Afghanistan,267,4,40.2,242,6.62,False
+4e237c3d-59ef-5cd3-b72f-ce226b4ac9e4,1,England,222,10,100.5,605,2.2,True
+4e237c3d-59ef-5cd3-b72f-ce226b4ac9e4,2,Afghanistan,204,10,88.5,533,2.3,True
+4e237c3d-59ef-5cd3-b72f-ce226b4ac9e4,3,England,281,10,145.0,870,1.94,True
+4e237c3d-59ef-5cd3-b72f-ce226b4ac9e4,4,Afghanistan,300,7,121.5,731,2.46,False
+82b09947-e4aa-51b8-808d-10a214116d5d,1,England Women,160,9,20.0,120,8.0,False
+82b09947-e4aa-51b8-808d-10a214116d5d,2,Pakistan Women,132,6,20.0,120,6.6,False
+2b67354a-f877-5d23-9e17-02fceace9c5f,1,New Zealand,551,10,125.5,755,4.38,True
+2b67354a-f877-5d23-9e17-02fceace9c5f,2,South Africa,225,10,146.3,879,1.54,True
+2b67354a-f877-5d23-9e17-02fceace9c5f,3,South Africa,263,10,95.4,574,2.75,True
+e50ec7a0-bc2d-56e3-bc0e-6dda8f646d3c,1,New Zealand,582,10,104.0,624,5.6,True
+e50ec7a0-bc2d-56e3-bc0e-6dda8f646d3c,2,Afghanistan,206,10,92.5,557,2.22,True
+e50ec7a0-bc2d-56e3-bc0e-6dda8f646d3c,3,Afghanistan,196,10,79.2,476,2.47,True
+59b5937b-ad8c-50e2-afd2-38e4b5fd92f4,1,Australia,152,8,20.0,120,7.6,False
+59b5937b-ad8c-50e2-afd2-38e4b5fd92f4,2,Sri Lanka,129,10,11.5,71,10.9,True
+8d66a61a-b76d-5a52-869c-9587d0e18e62,1,Australia,292,8,50.0,300,5.84,False
+8d66a61a-b76d-5a52-869c-9587d0e18e62,2,South Africa,245,10,33.3,201,7.31,True
+1c584fe1-c5a2-5b29-a1d3-ea8cc526a43c,1,New Zealand,245,8,50.0,300,4.9,False
+1c584fe1-c5a2-5b29-a1d3-ea8cc526a43c,2,Bangladesh,230,6,50.0,300,4.6,False
+41e796f4-bea3-5fdc-b3e1-134b1e9995c1,1,Pakistan Women,161,3,20.0,120,8.05,False
+41e796f4-bea3-5fdc-b3e1-134b1e9995c1,2,England Women,167,0,12.0,72,13.92,False
+2ba8eb53-023f-5987-86b3-7714fa190968,1,New Zealand,187,5,50.0,300,3.74,False
+2ba8eb53-023f-5987-86b3-7714fa190968,2,England,188,2,32.0,192,5.88,False
+b0cc91a3-b644-52f9-bac7-aea7311c7f7a,1,India,192,9,20.0,120,9.6,False
+b0cc91a3-b644-52f9-bac7-aea7311c7f7a,2,New Zealand,178,10,13.1,79,13.52,True
+b40c4ac1-0cc6-5b8e-be97-fd73bef2ea68,1,South Africa,142,8,20.0,120,7.1,False
+b40c4ac1-0cc6-5b8e-be97-fd73bef2ea68,2,India,131,3,20.0,120,6.55,False
+7337ed89-0e6f-5ebb-99d0-0dc8a3b00606,1,Pakistan Women,135,2,20.0,120,6.75,False
+7337ed89-0e6f-5ebb-99d0-0dc8a3b00606,2,England Women,139,4,13.1,79,10.56,False
+6efb699d-5814-5c8f-a004-8d285a51e0ce,1,West Indies,174,4,20.0,120,8.7,False
+6efb699d-5814-5c8f-a004-8d285a51e0ce,2,Afghanistan,154,10,16.5,101,9.15,True
+6bc74e90-2611-5744-b66a-7dbf20077f24,1,Australia,318,10,96.4,580,3.29,True
+6bc74e90-2611-5744-b66a-7dbf20077f24,2,South Africa,222,10,84.0,504,2.64,True
+6bc74e90-2611-5744-b66a-7dbf20077f24,3,Australia,405,10,131.1,787,3.09,True
+6bc74e90-2611-5744-b66a-7dbf20077f24,4,South Africa,505,2,131.3,789,3.84,False
+2004e17b-7d91-5c3c-ad03-e3264b06c92a,1,India,130,6,20.0,120,6.5,False
+2004e17b-7d91-5c3c-ad03-e3264b06c92a,2,England,122,10,17.4,106,6.91,True
+84ced563-095e-567f-9b36-c825b1159462,1,West Indies,157,3,20.0,120,7.85,False
+84ced563-095e-567f-9b36-c825b1159462,2,Pakistan,142,10,18.5,113,7.54,True
+3d5c25cb-8759-53a8-abd6-71c43f4a9cde,1,New Zealand,199,4,20.0,120,9.95,False
+3d5c25cb-8759-53a8-abd6-71c43f4a9cde,2,Bangladesh,169,9,20.0,120,8.45,False
+b4b7318a-f6dd-57d1-9735-7d564afa31b3,1,Sri Lanka,279,7,50.0,300,5.58,False
+b4b7318a-f6dd-57d1-9735-7d564afa31b3,2,Afghanistan,259,10,37.3,225,6.91,True
+c7280741-3aa0-577c-97db-180dad8c82e2,1,India,186,2,20.0,120,9.3,False
+c7280741-3aa0-577c-97db-180dad8c82e2,2,West Indies,115,10,13.4,82,8.41,True
+ddf3078e-5251-50ec-86fb-aafbe65df484,1,Afghanistan,204,5,20.0,120,10.2,False
+ddf3078e-5251-50ec-86fb-aafbe65df484,2,Australia,135,4,20.0,120,6.75,False
+03fa7b0c-7ff2-5184-8b76-2e2ca3ea0a77,1,Australia,349,10,91.3,549,3.81,True
+03fa7b0c-7ff2-5184-8b76-2e2ca3ea0a77,2,West Indies,290,10,114.5,689,2.53,True
+03fa7b0c-7ff2-5184-8b76-2e2ca3ea0a77,3,Australia,336,7,116.3,699,2.88,False
+03fa7b0c-7ff2-5184-8b76-2e2ca3ea0a77,4,West Indies,180,4,94.0,564,1.91,False
+2903b14b-f37a-5cfe-8a29-813779acdbdd,1,Afghanistan,268,10,123.4,742,2.17,True
+2903b14b-f37a-5cfe-8a29-813779acdbdd,2,Pakistan,301,10,113.4,682,2.65,True
+2903b14b-f37a-5cfe-8a29-813779acdbdd,3,Afghanistan,208,10,75.3,453,2.75,True
+2903b14b-f37a-5cfe-8a29-813779acdbdd,4,Pakistan,180,9,104.5,629,1.72,False
+ccdcaf2d-23c6-54d1-89a8-1573d8099682,1,Australia,216,3,20.0,120,10.8,False
+ccdcaf2d-23c6-54d1-89a8-1573d8099682,2,India,131,10,11.0,66,11.91,True
+c6e3e306-64c1-586d-a065-cead6d1d7388,1,Bangladesh,329,10,34.4,208,9.49,True
+c6e3e306-64c1-586d-a065-cead6d1d7388,2,West Indies,231,3,50.0,300,4.62,False
+b61f997e-f9a2-558a-9d8f-ce1ac2fe6ca8,1,Pakistan,136,6,20.0,120,6.8,False
+b61f997e-f9a2-558a-9d8f-ce1ac2fe6ca8,2,New Zealand,138,2,16.5,101,8.2,False
+8103d420-d601-540b-84c0-3720abb9e103,1,England,262,3,50.0,300,5.24,False
+8103d420-d601-540b-84c0-3720abb9e103,2,Bangladesh,263,4,40.1,241,6.55,False
+ce3caa16-6582-56f5-93fc-8a504bcdc40a,1,Pakistan,112,3,20.0,120,5.6,False
+ce3caa16-6582-56f5-93fc-8a504bcdc40a,2,Afghanistan,113,4,14.0,84,8.07,False
+ea379716-8fab-5efa-b5d9-95dd5697a3a3,1,South Africa,178,9,20.0,120,8.9,False
+ea379716-8fab-5efa-b5d9-95dd5697a3a3,2,Bangladesh,160,10,11.4,70,13.71,True
+4ba244ac-6e01-5ca3-9b4f-99a8b58f7a86,1,New Zealand,216,3,20.0,120,10.8,False
+4ba244ac-6e01-5ca3-9b4f-99a8b58f7a86,2,West Indies,171,10,16.4,100,10.26,True
+d4bd965a-ac15-5cf1-9dfa-727401997e9e,1,West Indies,176,4,20.0,120,8.8,False
+d4bd965a-ac15-5cf1-9dfa-727401997e9e,2,India,163,10,11.4,70,13.97,True
+ab3b42f8-5bc6-537b-899a-2ac4d5243872,1,India,196,2,50.0,300,3.92,False
+ab3b42f8-5bc6-537b-899a-2ac4d5243872,2,Bangladesh,198,4,46.4,280,4.24,False
+10410fcd-a3bc-573e-827b-d5df73bad2e6,1,South Africa,343,10,148.2,890,2.31,True
+10410fcd-a3bc-573e-827b-d5df73bad2e6,2,Sri Lanka,363,10,131.2,788,2.76,True
+10410fcd-a3bc-573e-827b-d5df73bad2e6,3,South Africa,287,10,140.2,842,2.05,True
+10410fcd-a3bc-573e-827b-d5df73bad2e6,4,Sri Lanka,270,9,90.0,540,3.0,False
+087e0a77-e5f1-5868-aef8-b60a746758bc,1,Australia,148,7,20.0,120,7.4,False
+087e0a77-e5f1-5868-aef8-b60a746758bc,2,South Africa,149,1,18.2,110,8.13,False
+993e34c5-7500-5a01-97c3-0e5bc8b1ed62,1,Sri Lanka,201,7,20.0,120,10.05,False
+993e34c5-7500-5a01-97c3-0e5bc8b1ed62,2,Australia,123,10,18.0,108,6.83,True
+dad094c7-df15-52cb-96e5-cacbc84ba9c5,1,West Indies,247,8,20.0,120,12.35,False
+dad094c7-df15-52cb-96e5-cacbc84ba9c5,2,Afghanistan,124,10,12.3,75,9.92,True
+117aaf79-9589-5099-8e9e-b8fb8021a470,1,India Women,103,5,20.0,120,5.15,False
+117aaf79-9589-5099-8e9e-b8fb8021a470,2,Pakistan Women,109,1,19.1,115,5.69,False
+521eb1b6-0a28-5a87-96a7-c4610b428f1e,1,New Zealand,274,10,103.2,620,2.65,True
+521eb1b6-0a28-5a87-96a7-c4610b428f1e,2,Pakistan,330,10,143.4,862,2.3,True
+521eb1b6-0a28-5a87-96a7-c4610b428f1e,3,New Zealand,246,7,110.0,660,2.24,False
+521eb1b6-0a28-5a87-96a7-c4610b428f1e,4,Pakistan,180,4,105.4,634,1.7,False
+bb5928be-1f63-5580-ab56-7453fa4d940c,1,Afghanistan,222,10,30.4,184,7.24,True
+bb5928be-1f63-5580-ab56-7453fa4d940c,2,Sri Lanka,218,10,43.1,259,5.05,True
+00e08032-7139-5655-a232-cae4f89e9408,1,New Zealand,259,10,147.4,886,1.75,True
+00e08032-7139-5655-a232-cae4f89e9408,2,Pakistan,60,10,71.4,430,0.84,True
+00e08032-7139-5655-a232-cae4f89e9408,3,New Zealand,294,7,91.5,551,3.2,False
+00e08032-7139-5655-a232-cae4f89e9408,4,Pakistan,180,4,146.3,879,1.23,False
+3a692ae6-67a1-56a4-8979-657a4c423228,1,Pakistan,234,4,50.0,300,4.68,False
+3a692ae6-67a1-56a4-8979-657a4c423228,2,Bangladesh,199,6,50.0,300,3.98,False
+65567121-1eab-51b3-970d-a2fcc3310cb6,1,Pakistan,289,6,50.0,300,5.78,False
+65567121-1eab-51b3-970d-a2fcc3310cb6,2,Sri Lanka,290,0,30.1,181,9.61,False
+f198da19-7648-5c0d-9a35-d49c5c53234d,1,Sri Lanka,293,8,50.0,300,5.86,False
+f198da19-7648-5c0d-9a35-d49c5c53234d,2,South Africa,250,10,29.5,179,8.38,True
+2aca80c6-0b80-50d1-b028-f7467b194d4a,1,Pakistan,250,9,50.0,300,5.0,False
+2aca80c6-0b80-50d1-b028-f7467b194d4a,2,Australia,251,8,28.4,172,8.76,False
+fdc4312e-dac3-5e09-848a-ee77cc537452,1,India,170,3,20.0,120,8.5,False
+fdc4312e-dac3-5e09-848a-ee77cc537452,2,Australia,155,7,20.0,120,7.75,False
+b48e3a51-8089-51da-ab22-62b05664df77,1,India Women,158,6,20.0,120,7.9,False
+b48e3a51-8089-51da-ab22-62b05664df77,2,Pakistan Women,151,10,12.0,72,12.58,True
+707d79cb-88b3-52e9-97a6-3bc33cb2f5b7,1,New Zealand,309,10,76.1,457,4.06,True
+707d79cb-88b3-52e9-97a6-3bc33cb2f5b7,2,West Indies,142,10,108.4,652,1.31,True
+707d79cb-88b3-52e9-97a6-3bc33cb2f5b7,3,New Zealand,275,10,109.2,656,2.52,True
+707d79cb-88b3-52e9-97a6-3bc33cb2f5b7,4,West Indies,445,0,145.0,870,3.07,False

@@ -1,0 +1,9 @@
+id,name,reasons
+not-a-guid,"England vs New Zealand, 2nd T20","id: Input should be a valid UUID, invalid character: found `n` at 0"
+cfbf6dda-9751-5692-b93a-6d46fac0b9ef,"Australia vs England, 3rd T20",score.0.w: Input should be less than or equal to 10
+1857ab95-d1a9-503f-ad0e-53483d73e2e0,"Afghanistan vs New Zealand, 2nd ODI","score.0.o: Value error, invalid overs '19.7': an over has only 6 balls (.0 to .5)"
+84bd99a7-5567-5f34-b32b-d30928f62aa4,"Sri Lanka vs Bangladesh, 1st Test","record: Value error, a completed match must have exactly two distinct teams"
+fc57c5c0-1911-55ec-bed4-0ad832e43e62,"Bangladesh vs England, 1st T20",date: Field required
+69987fb8-0857-5d0b-b956-60174f98ed74,"South Africa vs New Zealand, 1st T20",score.1.r: Input should be greater than or equal to 0
+0bcab5e9-aae4-5d28-aca1-17280cf23798,"West Indies vs Sri Lanka, 2nd T20","date: Value error, date 1995-03-01 is before API coverage (2000)"
+bc6a6f7b-d1bc-5dd6-ab1a-133f5c874eda,"New Zealand vs Sri Lanka, 2nd ODI","record: Value error, a completed match cannot have a future date"

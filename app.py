@@ -8,7 +8,7 @@ from flask import Flask, jsonify, render_template, request
 
 from cricket_pipeline import config
 
-app = Flask(__name__)
+app = Flask(__name__, static_folder="public", static_url_path="")
 FORMATS = ("Test", "ODI", "T20", "Other")
 
 def connect() -> sqlite3.Connection:

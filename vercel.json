@@ -1,0 +1,8 @@
+{
+  "functions": {
+    "app.py": {
+      "includeFiles": "{data/cricket.db,data/snapshot/**,reports/data_quality_report.json,templates/**}",
+      "excludeFiles": "{tests/**,scripts/**,data/raw/**,data/processed/**,data/sample/**,reports/figures/**,logs/**}"
+    }
+  }
+}

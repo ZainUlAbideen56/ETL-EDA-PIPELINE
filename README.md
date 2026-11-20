@@ -1,5 +1,7 @@
 # Cricket ETL + EDA Project
 
+**Live demo:** https://etl-eda-pipeline-three.vercel.app/
+
 Project 1 for Programming for AI (Fall 2026), BS AI, UET Lahore.
 
 We take cricket match data from a web API, check it, clean it, store it in a
@@ -60,7 +62,7 @@ internet. It is not real cricket data and must not be used for the real results.
 ## The web page
 
 `app.py` is a small Flask server. It has two jobs: it sends the page
-(`templates/index.html`, `static/style.css`, `static/script.js`), and it answers
+(`templates/index.html`, `public/style.css`, `public/script.js`), and it answers
 data requests from the page with JSON. The page draws the charts with Chart.js.
 
 Filters at the top (format, years, men/women) change every number and chart. The
@@ -89,8 +91,20 @@ these addresses.
 
 Chart.js is loaded from a CDN. If you want the page to work without internet,
 download https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js and
-save it as `static/chart.umd.min.js`. The page uses that copy when the CDN is
+save it as `public/chart.umd.min.js`. The page uses that copy when the CDN is
 not reachable.
+
+## Deployment (Vercel)
+
+The web page is deployed on Vercel: https://etl-eda-pipeline-three.vercel.app/
+
+Only the web page runs on Vercel. The ETL does not run there. The page reads the
+ready-made `data/cricket.db` in read-only mode, so that file must be committed to
+GitHub. To update the data, run `python main.py etl` on your computer, commit the
+new `data/cricket.db` and push. Vercel then redeploys automatically.
+
+The Vercel settings are in `vercel.json`. The page files (`style.css`,
+`script.js`) are in `public/` because Vercel serves that folder directly.
 
 ## Files
 
@@ -98,9 +112,10 @@ not reachable.
 |---|---|
 | `main.py` | Command line: `etl`, `eda` or `all` |
 | `app.py` | Flask server and JSON API for the web page |
+| `vercel.json` | Settings for deploying the web page on Vercel |
 | `templates/index.html` | Structure of the web page |
-| `static/style.css` | Colours and layout |
-| `static/script.js` | Filters, requests to the API and charts |
+| `public/style.css` | Colours and layout |
+| `public/script.js` | Filters, requests to the API and charts |
 | `cricket_pipeline/config.py` | Paths, API address and constants |
 | `cricket_pipeline/logger.py` | Prints progress and writes `logs/pipeline.log` |
 | `cricket_pipeline/extract.py` | Downloads pages from the API, retries on server errors, saves the raw JSON |
@@ -161,8 +176,8 @@ scores are real cricket events and not data errors.
   EDA only runs when there are at least 30 matches with toss details.
 - The free API plan has a daily limit, so avoid running `etl` many times in one day.
 - If the API changes a field name, the place to fix it is `schemas.py`.
-- `app.py` runs with `debug=True`, which is fine for a project demo but should be
-  turned off if the page is ever put on a real server.
+- `app.py` runs with `debug=True` only when it is started locally with
+  `python app.py`. The Vercel deployment does not use debug mode.
 
 ## Team
 
